@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/AI_Infrastructure-00599C?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/DevOps-239120?style=for-the-badge&logo=devops-cult&logoColor=white" />
   <img src="https://img.shields.io/badge/Platform_Engineering-FF6F00?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLOps-007ACC?style=for-the-badge&logo=mlflow&logoColor=white" />
 </p>
 
 <p align="center">
@@ -17,6 +18,8 @@
 <p align="center">
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Adamson-lab"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://t.me/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
+  <a href="https://portfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white" /></a>
 </p>
 
 ---
@@ -44,7 +47,7 @@
 | :--- | :--- |
 | **Platform Engineering** | Internal Developer Platforms (IDPs), DevOps Automation |
 | **Cloud Systems** | Kubernetes, GitOps, Infrastructure Architecture |
-| **AI & MLOps** | LLMOps, Generative AI, AI Agents, Evaluation Frameworks |
+| **AI & MLOps** | LLMOps, Generative AI, AI Agents, Evaluation Frameworks, LangGraph, LangChain |
 
 ---
 
@@ -61,12 +64,18 @@
 ### 🛠️ Areas of Expertise
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agents-00599C?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps-239120?style=flat-square&logo=devops-cult&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_Infrastructure-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps_Engineering-239120?style=flat-square&logo=devops-cult&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platform_Engineering-FF6F00?style=flat-square&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/GitOps-FF4F00?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-007ACC?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Observability-E76F51?style=flat-square&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Infrastructure-00599C?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-FF2D00?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agents-6C5CE7?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLOps-007ACC?style=flat-square&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-4CAF50?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-FF9800?style=flat-square&logo=gnubash&logoColor=white" />
 </p>
 
 ---
