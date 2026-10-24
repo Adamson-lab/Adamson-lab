@@ -147,6 +147,21 @@
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,20,25,30&height=120&section=header&text=NEW%20-%20System%20Performance%20&%20Activity%20Meters&fontSize=24&fontColor=ffffff" width="100%" />
+</div>
+
+---
+
+### 📊 NEW: Live Developer Metrics & Productivity Matrix
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/code-review/?username=Adamson-lab&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adamson-lab&repo=ai-response-evaluation&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,20,25,30&height=120&section=header&text=Learning%20Hub%20&%20Resources&fontSize=24&fontColor=ffffff" width="100%" />
 </div>
 
