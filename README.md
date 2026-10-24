@@ -45,6 +45,11 @@
 ### 🏅 Professional Certifications & Credentials
 
 <p align="center">
+  <img width="120" hspace="6" vspace="6" src="./badges/SAP_EA.png" alt="SAP Enterprise Architect Certified" />
+  <img width="120" hspace="6" vspace="6" src="./badges/AWS_SAP.png" alt="AWS Certified Solutions Architect Professional" />
+  <img width="120" hspace="6" vspace="6" src="./badges/GCP_CA.png" alt="Google Cloud Professional Cloud Architect" />
+  <img width="120" hspace="6" vspace="6" src="./badges/NCP_MCI.png" alt="Nutanix Certified Professional - Multicloud Infrastructure" />
+  <img width="120" hspace="6" vspace="6" src="./badges/JUMPCLOUD_2026.png" alt="JumpCloud Certified Advanced 2026" />
   <img width="120" hspace="6" vspace="6" src="./badges/5e8f2e11-71bd-43a2-adde-d0d7ec0237bd.png" alt="Azure Solutions Architect Expert" />
   <img width="120" hspace="6" vspace="6" src="./badges/04bfd69e-56dd-413f-8f9c-863764c72dc1.png" alt="AWS Certified Security Specialty" />
   <img width="120" hspace="6" vspace="6" src="./badges/d1106ff8-8a9f-4457-863c-6749520c38fd.png" alt="AWS Certified Machine Learning Engineer Associate" />
