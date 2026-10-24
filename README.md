@@ -45,7 +45,9 @@
 ### 🏆 GitHub Trophies & Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adamson-lab&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=4" />
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=Adamson-lab&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=4" />
+  </p>
 </div>
 
 <div align="center">
