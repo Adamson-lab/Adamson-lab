@@ -54,7 +54,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adamson-lab&theme=tokyo-night&hide_border=true&area=true&custom_title=Developer%20Activity%20Pulse" width="100%" />
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adamson-lab&theme=tokyo-night&hide_border=true&area=true&custom_title=Developer%20Activity%20Pulse" width="100%" alt="Activity Graph" />
+  </p>
 </div>
 
 ---
