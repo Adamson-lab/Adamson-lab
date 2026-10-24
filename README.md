@@ -18,12 +18,12 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/adamson-favour-ikeoluwa-sap-ea-828752379/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Adamson-lab"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://t.me/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
-  <a href="https://portfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white" /></a>
+  <a href="https://t.me/Adamson_SAP"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
+  <a href="https://favour-adamson.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Top%20Committer-FF5722?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Nigeria-008751?style=flat-square&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Worldwide-008751?style=flat-square&logo=icloud&logoColor=white" />
 </p>
 
 ---
