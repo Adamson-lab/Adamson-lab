@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,25,30&height=200&section=header&text=FAVOUR%20%20ADAMSON&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,25,30&height=220&section=header&text=FAVOUR%20%20ADAMSON&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 
-<h3 align="center">F A V O U R   &nbsp; A D A M S O N</h3>
+<h2 align="center">⚡ F A V O U R &nbsp; A D A M S O N ⚡</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Enterprise_Architecture-00599C?style=for-the-badge&logo=TOGAF&logoColor=white" />
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <b>Building Enterprise Architecture, Multicloud Systems, DevSecOps & Advanced Network Infrastructures.</b>
+  <em><b>Designing Resilient Enterprise Architecture, Multicloud Ecosystems, DevSecOps Pipelines & Advanced Network Infrastructures.</b></em>
 </p>
 
 <p align="center">
@@ -28,11 +28,11 @@
 
 ---
 
-### 👋 About Me & Core Mission
+### 🌟 About Me & Core Mission
 
-* Principal Systems Architect and Engineer with extensive expertise spanning enterprise architecture, multicloud infrastructure modernization, and resilient network design across global environments[cite: 5, 28].
-* My technical focus covers **Enterprise Architecture** (reference architectures, governance, ARBs, and ADRs), **Multicloud Architecture** (AWS, Azure, Google Cloud, and OCI landing zones), **DevSecOps** (Terraform, CI/CD pipelines, automated security gates, and container orchestration), **ERP Systems** (Oracle EBS to Fusion Cloud ERP migrations and enterprise integration fabrics), and **Network Architecture** (BGP, MPLS, SD-WAN, and zero-trust segmentation)[cite: 5, 11, 28].
-* I enjoy engineering open-source tools, automated compliance validation frameworks, production-ready cloud systems, and comprehensive documentation resources that simplify complex architectural challenges[cite: 5].
+* **Principal Systems Architect & Engineer** with extensive expertise spanning enterprise architecture, multicloud infrastructure modernization, and resilient network design across global environments[cite: 5, 28].
+* **Core Technical Focus**: Specializing in **Enterprise Architecture** (reference architectures, governance, ARBs, and ADRs), **Multicloud Architecture** (AWS, Azure, Google Cloud, and OCI landing zones), **DevSecOps** (Terraform, CI/CD pipelines, automated security gates, and container orchestration), **ERP Systems** (Oracle EBS to Fusion Cloud ERP migrations and enterprise integration fabrics), and **Network Architecture** (BGP, MPLS, SD-WAN, and zero-trust segmentation)[cite: 5, 11, 28].
+* **Innovation & Delivery**: Passionate about engineering open-source tools, automated compliance validation frameworks, production-ready cloud systems, and comprehensive documentation resources that simplify complex architectural challenges[cite: 5].
 
 ---
 
