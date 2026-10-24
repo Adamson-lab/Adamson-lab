@@ -45,16 +45,16 @@
 ### 🏅 Professional Certifications & Credentials
 
 <p align="center">
-  <img width="120" hspace="6" vspace="6" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/azure-solutions-architect.png" alt="Azure Solutions Architect Expert" />
-  <img width="120" hspace="6" vspace="6" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/aws-security-specialty.png" alt="AWS Certified Security Specialty" />
-  <img width="120" hspace="6" vspace="6" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/aws-ml-associate.png" alt="AWS Certified Machine Learning Engineer Associate" />
-  <img width="120" hspace="6" vspace="6" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/gcp-cloud-security.png" alt="Google Cloud Professional Cloud Security Engineer" />
-  <img width="120" hspace="6" vspace="6" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/gcp-ml-engineer.png" alt="Google Cloud Professional Machine Learning Engineer" />
-  <img width="120" hspace="6" vspace="6" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/gcp-network-engineer.png" alt="Google Cloud Professional Cloud Network Engineer" />
-  <img width="120" hspace="6" vspace="6" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/oci-multicloud.png" alt="Oracle Cloud Infrastructure Multicloud Architect Professional" />
-  <img width="120" hspace="6" vspace="6" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/oci-migration.png" alt="Oracle Cloud Infrastructure Migration Architect Professional" />
-  <img width="120" hspace="6" vspace="6" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/oci-devops.png" alt="Oracle Cloud Infrastructure DevOps Professional" />
-  <img width="120" hspace="6" vspace="6" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/oci-observability.png" alt="Oracle Cloud Infrastructure Observability Professional" />
+  <img width="120" hspace="6" vspace="6" src="./badges/azure-solutions-architect.png" alt="Azure Solutions Architect Expert" />
+  <img width="120" hspace="6" vspace="6" src="./badges/aws-security-specialty.png" alt="AWS Certified Security Specialty" />
+  <img width="120" hspace="6" vspace="6" src="./badges/aws-ml-associate.png" alt="AWS Certified Machine Learning Engineer Associate" />
+  <img width="120" hspace="6" vspace="6" src="./badges/gcp-cloud-security.png" alt="Google Cloud Professional Cloud Security Engineer" />
+  <img width="120" hspace="6" vspace="6" src="./badges/gcp-ml-engineer.png" alt="Google Cloud Professional Machine Learning Engineer" />
+  <img width="120" hspace="6" vspace="6" src="./badges/gcp-network-engineer.png" alt="Google Cloud Professional Cloud Network Engineer" />
+  <img width="120" hspace="6" vspace="6" src="./badges/oci-multicloud.png" alt="Oracle Cloud Infrastructure Multicloud Architect Professional" />
+  <img width="120" hspace="6" vspace="6" src="./badges/oci-migration.png" alt="Oracle Cloud Infrastructure Migration Architect Professional" />
+  <img width="120" hspace="6" vspace="6" src="./badges/oci-devops.png" alt="Oracle Cloud Infrastructure DevOps Professional" />
+  <img width="120" hspace="6" vspace="6" src="./badges/oci-observability.png" alt="Oracle Cloud Infrastructure Observability Professional" />
 </p>
 
 ---
