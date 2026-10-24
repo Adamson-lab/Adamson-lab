@@ -30,9 +30,9 @@
 
 ### 🌟 About Me & Core Mission
 
-* **Principal Systems Architect & Engineer** with extensive expertise spanning enterprise architecture, multicloud infrastructure modernization, and resilient network design across global environments[cite: 5, 28].
-* **Core Technical Focus**: Specializing in **Enterprise Architecture** (reference architectures, governance, ARBs, and ADRs), **Multicloud Architecture** (AWS, Azure, Google Cloud, and OCI landing zones), **DevSecOps** (Terraform, CI/CD pipelines, automated security gates, and container orchestration), **ERP Systems** (Oracle EBS to Fusion Cloud ERP migrations and enterprise integration fabrics), and **Network Architecture** (BGP, MPLS, SD-WAN, and zero-trust segmentation)[cite: 5, 11, 28].
-* **Innovation & Delivery**: Passionate about engineering open-source tools, automated compliance validation frameworks, production-ready cloud systems, and comprehensive documentation resources that simplify complex architectural challenges[cite: 5].
+* **Principal Systems Architect & Engineer** with extensive expertise spanning enterprise architecture, multicloud infrastructure modernization, and resilient network design across global environments.
+* **Core Technical Focus**: Specializing in **Enterprise Architecture** (reference architectures, governance, ARBs, and ADRs), **Multicloud Architecture** (AWS, Azure, Google Cloud, and OCI landing zones), **DevSecOps** (Terraform, CI/CD pipelines, automated security gates, and container orchestration), **ERP Systems** (Oracle EBS to Fusion Cloud ERP migrations and enterprise integration fabrics), and **Network Architecture** (BGP, MPLS, SD-WAN, and zero-trust segmentation).
+* **Innovation & Delivery**: Passionate about engineering open-source tools, automated compliance validation frameworks, production-ready cloud systems, and comprehensive documentation resources that simplify complex architectural challenges.
 
 ---
 
@@ -73,11 +73,11 @@
 
 | Domain | Focus Areas | Technical Stack |
 | :--- | :--- | :--- |
-| **Enterprise Architecture** | Enterprise Governance, Reference Architectures, ARBs & ADRs[cite: 5, 28] | TOGAF, Solution Mapping, ITIL |
-| **Multicloud Architecture** | Landing Zones, Hybrid-Cloud Connectivity, Multi-Region Resilience[cite: 5, 28] | AWS, Azure, GCP, OCI[cite: 5] |
-| **DevSecOps & Automation** | Infrastructure as Code, CI/CD Pipeline Security Gates, SAST/DAST[cite: 8, 28] | Terraform, Ansible, Docker, Kubernetes[cite: 5, 28] |
-| **ERP Systems Integration** | Oracle EBS to Fusion Cloud Modernization, API Integration Fabrics[cite: 28] | Oracle Integration Cloud, MuleSoft[cite: 28] |
-| **Network Architecture** | WAN/LAN Modernization, BGP, MPLS, SD-WAN, Zero-Trust Segmentation[cite: 7, 28] | Cisco, Juniper, Aruba, Firewalls[cite: 14, 18] |
+| **Enterprise Architecture** | Enterprise Governance, Reference Architectures, ARBs & ADRs | TOGAF, Solution Mapping, ITIL |
+| **Multicloud Architecture** | Landing Zones, Hybrid-Cloud Connectivity, Multi-Region Resilience | AWS, Azure, GCP, OCI |
+| **DevSecOps & Automation** | Infrastructure as Code, CI/CD Pipeline Security Gates, SAST/DAST | Terraform, Ansible, Docker, Kubernetes |
+| **ERP Systems Integration** | Oracle EBS to Fusion Cloud Modernization, API Integration Fabrics | Oracle Integration Cloud, MuleSoft |
+| **Network Architecture** | WAN/LAN Modernization, BGP, MPLS, SD-WAN, Zero-Trust Segmentation | Cisco, Juniper, Aruba, Firewalls |
 
 ---
 
@@ -91,10 +91,10 @@
 
 | Project | Description | Primary Language |
 | :--- | :--- | :--- |
-| **[ai-response-evaluation](https://github.com/Adamson-lab/ai-response-evaluation)** | Production-grade AI response evaluation framework[cite: 1] | Python[cite: 1] |
-| **[ai-constraint-testing-suite](https://github.com/Adamson-lab/ai-constraint-testing-suite)** | Advanced constraint testing toolkit for agentic systems[cite: 1] | Python[cite: 1] |
-| **[community-onboarding-analytics](https://github.com/Adamson-lab/community-onboarding-analytics)** | Automated community tracking and onboarding analytics[cite: 1] | Python[cite: 1] |
-| **[enterprise-ai-evaluator](https://github.com/Adamson-lab/enterprise-ai-evaluator)** | Enterprise-grade evaluation pipeline for LLM deployments | Python[cite: 1] |
+| **[ai-response-evaluation](https://github.com/Adamson-lab/ai-response-evaluation)** | Production-grade AI response evaluation framework | Python |
+| **[ai-constraint-testing-suite](https://github.com/Adamson-lab/ai-constraint-testing-suite)** | Advanced constraint testing toolkit for agentic systems | Python |
+| **[community-onboarding-analytics](https://github.com/Adamson-lab/community-onboarding-analytics)** | Automated community tracking and onboarding analytics | Python |
+| **[enterprise-ai-evaluator](https://github.com/Adamson-lab/enterprise-ai-evaluator)** | Enterprise-grade evaluation pipeline for LLM deployments | Python |
 
 ---
 
@@ -166,7 +166,7 @@
 
 | Resource | Description |
 | :--- | :--- |
-| **Enterprise Architecture Documentation** | Comprehensive guides on enterprise reference models, governance frameworks, and decision records[cite: 5] |
+| **Enterprise Architecture Documentation** | Comprehensive guides on enterprise reference models, governance frameworks, and decision records |
 | **Multicloud & ERP Toolkits** | Hands-on production-grade repositories for cloud landing zones and ERP data pipelines |
 | **Network & DevSecOps Roadmaps** | Structured architectures for resilient networking, zero-trust security, and automation |
 
