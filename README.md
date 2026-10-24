@@ -45,7 +45,9 @@
 ### 🏆 GitHub Trophies & Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adamson-lab&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=3" alt="Adamson-lab Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Adamson-lab&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=3" alt="Adamson-lab Trophies" />
+  </a>
 </div>
 
 <div align="center">
@@ -132,7 +134,13 @@
 ### 🐍 GitHub Contribution Snake Animation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+  <a href="https://github.com/Platane/snk">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/output/github-contribution-grid-snake.svg">
+    </picture>
+  </a>
 </div>
 
 ---
