@@ -37,18 +37,12 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,20,25,30&height=120&section=header&text=GitHub%20Trophies%20&%20Metrics&fontSize=24&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,20,25,30&height=120&section=header&text=GitHub%20Metrics%20&%20Analytics&fontSize=24&fontColor=ffffff" width="100%" />
 </div>
 
 ---
 
-### 🏆 GitHub Trophies & Analytics
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Adamson-lab&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=3" alt="Adamson-lab Trophies" />
-  </a>
-</div>
+### 📊 GitHub Analytics & Performance
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adamson-lab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
@@ -122,26 +116,6 @@
   <img src="https://img.shields.io/badge/Ansible-EE4C2C?style=flat-square&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/Observability-E76F51?style=flat-square&logo=prometheus&logoColor=white" />
 </p>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,20,25,30&height=120&section=header&text=Contribution%20Snake&fontSize=24&fontColor=ffffff" width="100%" />
-</div>
-
----
-
-### 🐍 GitHub Contribution Snake Animation
-
-<div align="center">
-  <a href="https://github.com/Platane/snk">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/output/github-contribution-grid-snake.svg">
-    </picture>
-  </a>
-</div>
 
 ---
 
