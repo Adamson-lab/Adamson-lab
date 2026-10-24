@@ -78,6 +78,22 @@
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,20,25,30&height=120&section=header&text=Core%20Architectural%20Principles&fontSize=24&fontColor=ffffff" width="100%" />
+</div>
+
+---
+
+### 💡 Core Architectural Philosophy
+
+| Principle | Execution Strategy | Impact |
+| :--- | :--- | :--- |
+| **Scalability by Design** | Designing distributed systems that scale horizontally across multi-region cloud environments. | Eliminates bottlenecks during enterprise demand surges. |
+| **Zero-Trust Security** | Implementing end-to-end encryption, micro-segmentation, and rigorous IAM governance. | Secures sensitive data and compliance frameworks. |
+| **Infrastructure as Code** | Managing complete cloud topologies through declarative Terraform and Ansible automation. | Reduces configuration drift and accelerates provisioning velocity. |
+
+---
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,20,25,30&height=120&section=header&text=Featured%20Projects%20&%20Toolkits&fontSize=24&fontColor=ffffff" width="100%" />
 </div>
 
