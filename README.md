@@ -54,9 +54,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Adamson-lab">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adamson-lab&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adamson-lab&theme=tokyo-night&hide_border=true&area=true&color=818cf8&line=818cf8&point=c084fc&bg_color=161b22" width="100%" alt="Activity Graph" />
 </div>
 
 ---
