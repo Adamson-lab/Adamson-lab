@@ -45,16 +45,13 @@
 ### 🏅 Professional Certifications & Credentials
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-Solutions_Architect_Expert_(Expert)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Certified_Security_Specialty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-ML_Engineer_Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-Professional_Cloud_Security_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-Professional_ML_Engineer-EA4335?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-Professional_Cloud_Network_Engineer-FBBC05?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle_Cloud-Multicloud_Architect_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle_Cloud-Migration_Architect_Professional-C74634?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle_Cloud-DevOps_Professional-EA1D25?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle_Cloud-Observability_Professional-FF6600?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img width="130" hspace="8" vspace="8" src="https://images.credly.com/images/0df5944b-4fde-4475-b3e3-a5103a891789/image.png" alt="Azure Solutions Architect Expert" />
+  <img width="130" hspace="8" vspace="8" src="https://images.credly.com/images/8437d2f9-7756-4c48-89ab-7685d6b472ea/image.png" alt="AWS Certified Security Specialty" />
+  <img width="130" hspace="8" vspace="8" src="https://images.credly.com/images/5f63d038-a28a-4467-9d7a-11359c258dff/image.png" alt="AWS Certified Machine Learning Engineer Associate" />
+  <img width="130" hspace="8" vspace="8" src="https://images.credly.com/images/a243a051-6677-49d6-a836-231454641ef6/image.png" alt="GCP Professional Cloud Security Engineer" />
+  <img width="130" hspace="8" vspace="8" src="https://images.credly.com/images/4215f91a-7dbd-4299-a9a7-cf2d2946c593/image.png" alt="GCP Professional ML Engineer" />
+  <img width="130" hspace="8" vspace="8" src="https://images.credly.com/images/3f8ee818-cb54-41d3-9565-d4190c1f21cc/image.png" alt="GCP Professional Cloud Network Engineer" />
+  <img width="130" hspace="8" vspace="8" src="https://b.net/images/oracle-badge.png" alt="OCI Multicloud Architect" />
 </p>
 
 ---
