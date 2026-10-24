@@ -45,6 +45,9 @@
 ### 🏅 Professional Certifications & Credentials
 
 <p align="center">
+  <img width="120" hspace="6" vspace="6" src="./badges/azure-administrator-associate-600x600.png" alt="Microsoft Certified Azure Administrator Associate" />
+  <img width="120" hspace="6" vspace="6" src="./badges/CERT-Expert-DevOps-Engineer-600x600.png" alt="Microsoft Certified DevOps Engineer Expert" />
+  <img width="120" hspace="6" vspace="6" src="./badges/azure-security-engineer-associate600x600.png" alt="Microsoft Certified Azure Security Engineer Associate" />
   <img width="120" hspace="6" vspace="6" src="./badges/SAP_EA.png" alt="SAP Enterprise Architect Certified" />
   <img width="120" hspace="6" vspace="6" src="./badges/AWS_SAP.png" alt="AWS Certified Solutions Architect Professional" />
   <img width="120" hspace="6" vspace="6" src="./badges/GCP_CA.png" alt="Google Cloud Professional Cloud Architect" />
