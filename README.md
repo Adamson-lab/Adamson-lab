@@ -42,19 +42,19 @@
 
 ---
 
-### certifications 🏅 Professional Certifications & Credentials
+### 🏅 Professional Certifications & Credentials
 
 <p align="center">
-  <img width="140" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/azure-solutions-architect.png" alt="Microsoft Azure Solutions Architect Expert" />
-  <img width="140" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/aws-security-specialty.png" alt="AWS Certified Security Specialty" />
-  <img width="140" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/aws-ml-associate.png" alt="AWS Certified Machine Learning Engineer Associate" />
-  <img width="140" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/gcp-cloud-security.png" alt="Google Cloud Professional Cloud Security Engineer" />
-  <img width="140" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/gcp-ml-engineer.png" alt="Google Cloud Professional Machine Learning Engineer" />
-  <img width="140" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/gcp-network-engineer.png" alt="Google Cloud Professional Cloud Network Engineer" />
-  <img width="140" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/oci-multicloud.png" alt="Oracle Cloud Infrastructure Multicloud Architect Professional" />
-  <img width="140" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/oci-migration.png" alt="Oracle Cloud Infrastructure Migration Architect Professional" />
-  <img width="140" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/oci-devops.png" alt="Oracle Cloud Infrastructure DevOps Professional" />
-  <img width="140" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/oci-observability.png" alt="Oracle Cloud Infrastructure Observability Professional" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-Solutions_Architect_Expert_(Expert)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Certified_Security_Specialty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-ML_Engineer_Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-Professional_Cloud_Security_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-Professional_ML_Engineer-EA4335?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-Professional_Cloud_Network_Engineer-FBBC05?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle_Cloud-Multicloud_Architect_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle_Cloud-Migration_Architect_Professional-C74634?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle_Cloud-DevOps_Professional-EA1D25?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle_Cloud-Observability_Professional-FF6600?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
 ---
