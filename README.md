@@ -45,24 +45,29 @@
 ### 🏅 Professional Certifications & Credentials
 
 <p align="center">
-  <img width="120" hspace="6" vspace="6" src="./badges/azure-administrator-associate-600x600.png" alt="Microsoft Certified Azure Administrator Associate" />
-  <img width="120" hspace="6" vspace="6" src="./badges/CERT-Expert-DevOps-Engineer-600x600.png" alt="Microsoft Certified DevOps Engineer Expert" />
-  <img width="120" hspace="6" vspace="6" src="./badges/azure-security-engineer-associate600x600.png" alt="Microsoft Certified Azure Security Engineer Associate" />
+  <!-- Tier 1: Enterprise & Expert Architect Levels -->
   <img width="120" hspace="6" vspace="6" src="./badges/SAP_EA.png" alt="SAP Enterprise Architect Certified" />
   <img width="120" hspace="6" vspace="6" src="./badges/AWS_SAP.png" alt="AWS Certified Solutions Architect Professional" />
   <img width="120" hspace="6" vspace="6" src="./badges/GCP_CA.png" alt="Google Cloud Professional Cloud Architect" />
-  <img width="120" hspace="6" vspace="6" src="./badges/NCP_MCI.png" alt="Nutanix Certified Professional - Multicloud Infrastructure" />
-  <img width="120" hspace="6" vspace="6" src="./badges/JUMPCLOUD_2026.png" alt="JumpCloud Certified Advanced 2026" />
   <img width="120" hspace="6" vspace="6" src="./badges/5e8f2e11-71bd-43a2-adde-d0d7ec0237bd.png" alt="Azure Solutions Architect Expert" />
-  <img width="120" hspace="6" vspace="6" src="./badges/04bfd69e-56dd-413f-8f9c-863764c72dc1.png" alt="AWS Certified Security Specialty" />
-  <img width="120" hspace="6" vspace="6" src="./badges/d1106ff8-8a9f-4457-863c-6749520c38fd.png" alt="AWS Certified Machine Learning Engineer Associate" />
+  <img width="120" hspace="6" vspace="6" src="./badges/CERT-Expert-DevOps-Engineer-600x600.png" alt="Microsoft Certified DevOps Engineer Expert" />
+
+  <!-- Tier 2: Professional & Specialty Tiers -->
   <img width="120" hspace="6" vspace="6" src="./badges/7169f8f0-ad1d-4bda-8584-f4bc3c3e1c9d.png" alt="Google Cloud Professional Cloud Security Engineer" />
   <img width="120" hspace="6" vspace="6" src="./badges/3337e13e-16d9-488b-962d-658e018f367e.png" alt="Google Cloud Professional Machine Learning Engineer" />
   <img width="120" hspace="6" vspace="6" src="./badges/26578bc4-0a12-4030-aceb-f9cc4bd890c8.png" alt="Google Cloud Professional Cloud Network Engineer" />
+  <img width="120" hspace="6" vspace="6" src="./badges/04bfd69e-56dd-413f-8f9c-863764c72dc1.png" alt="AWS Certified Security Specialty" />
   <img width="120" hspace="6" vspace="6" src="./badges/eab6115a-25ed-4c83-b77a-d8e26500cf6e.png" alt="Oracle Cloud Infrastructure Multicloud Architect Professional" />
   <img width="120" hspace="6" vspace="6" src="./badges/a46fa2d8-96c2-4b0c-bcf6-305317475b1a.png" alt="Oracle Cloud Infrastructure Migration Architect Professional" />
   <img width="120" hspace="6" vspace="6" src="./badges/052fa21b-a4e6-4d15-88ce-d1f40ad7a969.png" alt="Oracle Cloud Infrastructure DevOps Professional" />
   <img width="120" hspace="6" vspace="6" src="./badges/2c16face-7e62-4ae2-a2e1-baa1308bdc09.png" alt="Oracle Cloud Infrastructure Observability Professional" />
+  <img width="120" hspace="6" vspace="6" src="./badges/NCP_MCI.png" alt="Nutanix Certified Professional - Multicloud Infrastructure" />
+
+  <!-- Tier 3: Associate & Advanced Tiers -->
+  <img width="120" hspace="6" vspace="6" src="./badges/azure-security-engineer-associate600x600.png" alt="Microsoft Certified Azure Security Engineer Associate" />
+  <img width="120" hspace="6" vspace="6" src="./badges/d1106ff8-8a9f-4457-863c-6749520c38fd.png" alt="AWS Certified Machine Learning Engineer Associate" />
+  <img width="120" hspace="6" vspace="6" src="./badges/azure-administrator-associate-600x600.png" alt="Microsoft Certified Azure Administrator Associate" />
+  <img width="120" hspace="6" vspace="6" src="./badges/JUMPCLOUD_2026.png" alt="JumpCloud Certified Advanced 2026" />
 </p>
 
 ---
