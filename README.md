@@ -45,13 +45,16 @@
 ### 🏅 Professional Certifications & Credentials
 
 <p align="center">
-  <img width="130" hspace="8" vspace="8" src="https://images.credly.com/images/0df5944b-4fde-4475-b3e3-a5103a891789/image.png" alt="Azure Solutions Architect Expert" />
-  <img width="130" hspace="8" vspace="8" src="https://images.credly.com/images/8437d2f9-7756-4c48-89ab-7685d6b472ea/image.png" alt="AWS Certified Security Specialty" />
-  <img width="130" hspace="8" vspace="8" src="https://images.credly.com/images/5f63d038-a28a-4467-9d7a-11359c258dff/image.png" alt="AWS Certified Machine Learning Engineer Associate" />
-  <img width="130" hspace="8" vspace="8" src="https://images.credly.com/images/a243a051-6677-49d6-a836-231454641ef6/image.png" alt="GCP Professional Cloud Security Engineer" />
-  <img width="130" hspace="8" vspace="8" src="https://images.credly.com/images/4215f91a-7dbd-4299-a9a7-cf2d2946c593/image.png" alt="GCP Professional ML Engineer" />
-  <img width="130" hspace="8" vspace="8" src="https://images.credly.com/images/3f8ee818-cb54-41d3-9565-d4190c1f21cc/image.png" alt="GCP Professional Cloud Network Engineer" />
-  <img width="130" hspace="8" vspace="8" src="https://b.net/images/oracle-badge.png" alt="OCI Multicloud Architect" />
+  <img width="120" hspace="6" vspace="6" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/azure-solutions-architect.png" alt="Azure Solutions Architect Expert" />
+  <img width="120" hspace="6" vspace="6" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/aws-security-specialty.png" alt="AWS Certified Security Specialty" />
+  <img width="120" hspace="6" vspace="6" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/aws-ml-associate.png" alt="AWS Certified Machine Learning Engineer Associate" />
+  <img width="120" hspace="6" vspace="6" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/gcp-cloud-security.png" alt="Google Cloud Professional Cloud Security Engineer" />
+  <img width="120" hspace="6" vspace="6" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/gcp-ml-engineer.png" alt="Google Cloud Professional Machine Learning Engineer" />
+  <img width="120" hspace="6" vspace="6" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/gcp-network-engineer.png" alt="Google Cloud Professional Cloud Network Engineer" />
+  <img width="120" hspace="6" vspace="6" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/oci-multicloud.png" alt="Oracle Cloud Infrastructure Multicloud Architect Professional" />
+  <img width="120" hspace="6" vspace="6" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/oci-migration.png" alt="Oracle Cloud Infrastructure Migration Architect Professional" />
+  <img width="120" hspace="6" vspace="6" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/oci-devops.png" alt="Oracle Cloud Infrastructure DevOps Professional" />
+  <img width="120" hspace="6" vspace="6" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/oci-observability.png" alt="Oracle Cloud Infrastructure Observability Professional" />
 </p>
 
 ---
