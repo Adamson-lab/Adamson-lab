@@ -37,6 +37,29 @@
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,20,25,30&height=120&section=header&text=Professional%20Certifications&fontSize=24&fontColor=ffffff" width="100%" />
+</div>
+
+---
+
+### certifications 🏅 Professional Certifications & Credentials
+
+<p align="center">
+  <img width="140" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/azure-solutions-architect.png" alt="Microsoft Azure Solutions Architect Expert" />
+  <img width="140" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/aws-security-specialty.png" alt="AWS Certified Security Specialty" />
+  <img width="140" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/aws-ml-associate.png" alt="AWS Certified Machine Learning Engineer Associate" />
+  <img width="140" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/gcp-cloud-security.png" alt="Google Cloud Professional Cloud Security Engineer" />
+  <img width="140" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/gcp-ml-engineer.png" alt="Google Cloud Professional Machine Learning Engineer" />
+  <img width="140" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/gcp-network-engineer.png" alt="Google Cloud Professional Cloud Network Engineer" />
+  <img width="140" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/oci-multicloud.png" alt="Oracle Cloud Infrastructure Multicloud Architect Professional" />
+  <img width="140" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/oci-migration.png" alt="Oracle Cloud Infrastructure Migration Architect Professional" />
+  <img width="140" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/oci-devops.png" alt="Oracle Cloud Infrastructure DevOps Professional" />
+  <img width="140" src="https://raw.githubusercontent.com/Adamson-lab/Adamson-lab/main/badges/oci-observability.png" alt="Oracle Cloud Infrastructure Observability Professional" />
+</p>
+
+---
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,20,25,30&height=120&section=header&text=GitHub%20Metrics%20&%20Analytics&fontSize=24&fontColor=ffffff" width="100%" />
 </div>
 
