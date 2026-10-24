@@ -30,9 +30,9 @@
 
 ### 🌟 About Me & Core Mission
 
-- **Principal Systems Architect & Engineer** with extensive expertise spanning enterprise architecture, multicloud infrastructure modernization, and resilient network design across global environments.
-- **Core Technical Focus**: Specializing in **Enterprise Architecture** (reference architectures, governance, ARBs, and ADRs), **Multicloud Architecture** (AWS, Azure, Google Cloud, and OCI landing zones), **DevSecOps** (Terraform, CI/CD pipelines, automated security gates, and container orchestration), **ERP Systems** (Oracle EBS to Fusion Cloud ERP migrations and enterprise integration fabrics), and **Network Architecture** (BGP, MPLS, SD-WAN, and zero-trust segmentation).
-- **Innovation & Delivery**: Passionate about engineering open-source tools, automated compliance validation frameworks, production-ready cloud systems, and comprehensive documentation resources that simplify complex architectural challenges.
+- **Principal Systems Architect & Engineer** with extensive expertise spanning enterprise architecture, multicloud infrastructure modernization, and resilient network design across global environments[cite: 5, 28].
+- **Core Technical Focus**: Specializing in **Enterprise Architecture** (reference architectures, governance, ARBs, and ADRs), **Multicloud Architecture** (AWS, Azure, Google Cloud, and OCI landing zones), **DevSecOps** (Terraform, CI/CD pipelines, automated security gates, and container orchestration), **ERP Systems** (Oracle EBS to Fusion Cloud ERP migrations and enterprise integration fabrics), and **Network Architecture** (BGP, MPLS, SD-WAN, and zero-trust segmentation)[cite: 5, 11, 28].
+- **Innovation & Delivery**: Passionate about engineering open-source tools, automated compliance validation frameworks, production-ready cloud systems, and comprehensive documentation resources that simplify complex architectural challenges[cite: 5].
 
 ---
 
@@ -69,11 +69,11 @@
 
 | Domain | Focus Areas | Technical Stack |
 | :--- | :--- | :--- |
-| **Enterprise Architecture** | Enterprise Governance, Reference Architectures, ARBs & ADRs | TOGAF, Solution Mapping, ITIL |
-| **Multicloud Architecture** | Landing Zones, Hybrid-Cloud Connectivity, Multi-Region Resilience | AWS, Azure, GCP, OCI |
-| **DevSecOps & Automation** | Infrastructure as Code, CI/CD Pipeline Security Gates, SAST/DAST | Terraform, Ansible, Docker, Kubernetes |
-| **ERP Systems Integration** | Oracle EBS to Fusion Cloud Modernization, API Integration Fabrics | Oracle Integration Cloud, MuleSoft |
-| **Network Architecture** | WAN/LAN Modernization, BGP, MPLS, SD-WAN, Zero-Trust Segmentation | Cisco, Juniper, Aruba, Firewalls |
+| **Enterprise Architecture** | Enterprise Governance, Reference Architectures, ARBs & ADRs[cite: 5, 28] | TOGAF, Solution Mapping, ITIL |
+| **Multicloud Architecture** | Landing Zones, Hybrid-Cloud Connectivity, Multi-Region Resilience[cite: 5, 28] | AWS, Azure, GCP, OCI[cite: 5] |
+| **DevSecOps & Automation** | Infrastructure as Code, CI/CD Pipeline Security Gates, SAST/DAST[cite: 8, 28] | Terraform, Ansible, Docker, Kubernetes[cite: 5, 28] |
+| **ERP Systems Integration** | Oracle EBS to Fusion Cloud Modernization, API Integration Fabrics[cite: 28] | Oracle Integration Cloud, MuleSoft[cite: 28] |
+| **Network Architecture** | WAN/LAN Modernization, BGP, MPLS, SD-WAN, Zero-Trust Segmentation[cite: 7, 28] | Cisco, Juniper, Aruba, Firewalls[cite: 14, 18] |
 
 ---
 
@@ -87,10 +87,10 @@
 
 | Project | Description | Primary Language |
 | :--- | :--- | :--- |
-| **[ai-response-evaluation](https://github.com/Adamson-lab/ai-response-evaluation)** | Production-grade AI response evaluation framework | Python |
-| **[ai-constraint-testing-suite](https://github.com/Adamson-lab/ai-constraint-testing-suite)** | Advanced constraint testing toolkit for agentic systems | Python |
-| **[community-onboarding-analytics](https://github.com/Adamson-lab/community-onboarding-analytics)** | Automated community tracking and onboarding analytics | Python |
-| **[enterprise-ai-evaluator](https://github.com/Adamson-lab/enterprise-ai-evaluator)** | Enterprise-grade evaluation pipeline for LLM deployments | Python |
+| **[ai-response-evaluation](https://github.com/Adamson-lab/ai-response-evaluation)** | Production-grade AI response evaluation framework[cite: 1] | Python[cite: 1] |
+| **[ai-constraint-testing-suite](https://github.com/Adamson-lab/ai-constraint-testing-suite)** | Advanced constraint testing toolkit for agentic systems[cite: 1] | Python[cite: 1] |
+| **[community-onboarding-analytics](https://github.com/Adamson-lab/community-onboarding-analytics)** | Automated community tracking and onboarding analytics[cite: 1] | Python[cite: 1] |
+| **[enterprise-ai-evaluator](https://github.com/Adamson-lab/enterprise-ai-evaluator)** | Enterprise-grade evaluation pipeline for LLM deployments | Python[cite: 1] |
 
 ---
 
@@ -100,7 +100,7 @@
 
 ---
 
-### 🛠️ Comprehensive Areas of Expertise
+### 🛠️ Comprehensive Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Enterprise_Architecture-00599C?style=flat-square&logo=TOGAF&logoColor=white" />
@@ -108,13 +108,38 @@
   <img src="https://img.shields.io/badge/DevSecOps-FF6F00?style=flat-square&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/ERP_Systems-007ACC?style=flat-square&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Network_Architecture-FF2D00?style=flat-square&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud_Infrastructure-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE4C2C?style=flat-square&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Observability-E76F51?style=flat-square&logo=prometheus&logoColor=white" />
+</p>
+
+#### ☁️ Cloud
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+</p>
+
+#### 🚀 DevOps & Platform
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argocd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE4C2C?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+</p>
+
+#### 📊 Observability
+<p align="center">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</p>
+
+#### 🤖 AI & MLOps
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
 </p>
 
 ---
@@ -143,7 +168,7 @@
 
 | Resource | Description |
 | :--- | :--- |
-| **Enterprise Architecture Documentation** | Comprehensive guides on enterprise reference models, governance frameworks, and decision records |
+| **Enterprise Architecture Documentation** | Comprehensive guides on enterprise reference models, governance frameworks, and decision records[cite: 5] |
 | **Multicloud & ERP Toolkits** | Hands-on production-grade repositories for cloud landing zones and ERP data pipelines |
 | **Network & DevSecOps Roadmaps** | Structured architectures for resilient networking, zero-trust security, and automation |
 
