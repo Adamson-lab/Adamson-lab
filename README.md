@@ -1,20 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,25,30&height=200&section=header&text=FAVOUR%20ADAMSON&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,25,30&height=200&section=header&text=FAVOUR%20%20ADAMSON&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
-<h3 align="center">F A V O U R   A D A M S O N</h3>
+<h3 align="center">F A V O U R   &nbsp; A D A M S O N</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI_Infrastructure-00599C?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps-239120?style=for-the-badge&logo=devops-cult&logoColor=white" />
-  <img src="https://img.shields.io/badge/Platform_Engineering-FF6F00?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLOps-007ACC?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMOps-FF2D00?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/GenAI-6C5CE7?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Enterprise_Architecture-00599C?style=for-the-badge&logo=TOGAF&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multicloud_Architecture-239120?style=for-the-badge&logo=cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevSecOps-FF6F00?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/ERP_Systems-007ACC?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network_Architecture-FF2D00?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Infrastructure-6C5CE7?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 <p align="center">
-  <b>Building Cloud Platforms, AI Infrastructure & Agentic Systems.</b>
+  <b>Building Enterprise Architecture, Multicloud Systems, DevSecOps & Advanced Network Infrastructures.</b>
 </p>
 
 <p align="center">
@@ -30,9 +30,9 @@
 
 ### 👋 About Me & Core Mission
 
-* I build scalable cloud platforms, AI infrastructure, Internal Developer Platforms (IDPs), and Agentic AI systems that help engineering teams build, deploy, and operate applications faster.
-* My technical focus spans modern Platform Engineering, Cloud Native technologies, DevOps Automation, MLOps, LLMOps, Generative AI, AI Agents, Model Context Protocol (MCP), and Developer Experience.
-* I enjoy engineering open-source tools, automated testing frameworks, production-ready AI platforms, and comprehensive documentation resources that simplify complex architectural problems.
+* Principal Systems Architect and Engineer with extensive expertise spanning enterprise architecture, multicloud infrastructure modernization, and resilient network design across global environments[cite: 5, 28].
+* My technical focus covers **Enterprise Architecture** (reference architectures, governance, ARBs, and ADRs), **Multicloud Architecture** (AWS, Azure, Google Cloud, and OCI landing zones), **DevSecOps** (Terraform, CI/CD pipelines, automated security gates, and container orchestration), **ERP Systems** (Oracle EBS to Fusion Cloud ERP migrations and enterprise integration fabrics), and **Network Architecture** (BGP, MPLS, SD-WAN, and zero-trust segmentation)[cite: 5, 11, 28].
+* I enjoy engineering open-source tools, automated compliance validation frameworks, production-ready cloud systems, and comprehensive documentation resources that simplify complex architectural challenges[cite: 5].
 
 ---
 
@@ -64,19 +64,20 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,20,25,30&height=120&section=header&text=AI%20&%20MLOps%20Architecture&fontSize=24&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,20,25,30&height=120&section=header&text=Architecture%20&%20Engineering%20Domains&fontSize=24&fontColor=ffffff" width="100%" />
 </div>
 
 ---
 
-### 🧠 Current Focus & Architecture
+### 🧠 Current Focus & Architecture Domains
 
 | Domain | Focus Areas | Technical Stack |
 | :--- | :--- | :--- |
-| **Platform Engineering** | Internal Developer Platforms (IDPs), DevOps Automation | Linux, Bash, GitOps |
-| **Cloud Systems** | Kubernetes, GitOps, Infrastructure Architecture | AWS, Terraform, Docker |
-| **AI & MLOps** | LLMOps, Generative AI, AI Agents, Model Context Protocol (MCP) | LangGraph, LangChain, Google ADK |
-| **Automation** | Prompt Engineering, Retrieval-Augmented Generation (RAG) | Python, OpenAI, Vector DBs |
+| **Enterprise Architecture** | Enterprise Governance, Reference Architectures, ARBs & ADRs[cite: 5, 28] | TOGAF, Solution Mapping, ITIL |
+| **Multicloud Architecture** | Landing Zones, Hybrid-Cloud Connectivity, Multi-Region Resilience[cite: 5, 28] | AWS, Azure, GCP, OCI[cite: 5] |
+| **DevSecOps & Automation** | Infrastructure as Code, CI/CD Pipeline Security Gates, SAST/DAST[cite: 8, 28] | Terraform, Ansible, Docker, Kubernetes[cite: 5, 28] |
+| **ERP Systems Integration** | Oracle EBS to Fusion Cloud Modernization, API Integration Fabrics[cite: 28] | Oracle Integration Cloud, MuleSoft[cite: 28] |
+| **Network Architecture** | WAN/LAN Modernization, BGP, MPLS, SD-WAN, Zero-Trust Segmentation[cite: 7, 28] | Cisco, Juniper, Aruba, Firewalls[cite: 14, 18] |
 
 ---
 
@@ -106,24 +107,18 @@
 ### 🛠️ Comprehensive Areas of Expertise
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Enterprise_Architecture-00599C?style=flat-square&logo=TOGAF&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multicloud_Architecture-239120?style=flat-square&logo=cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevSecOps-FF6F00?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/ERP_Systems-007ACC?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network_Architecture-FF2D00?style=flat-square&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud_Infrastructure-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps_Engineering-239120?style=flat-square&logo=devops-cult&logoColor=white" />
-  <img src="https://img.shields.io/badge/Platform_Engineering-FF6F00?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitOps-FF4F00?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Observability-E76F51?style=flat-square&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Infrastructure-00599C?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative_AI-FF2D00?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agents-6C5CE7?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLOps-007ACC?style=flat-square&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-4CAF50?style=flat-square&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-FF9800?style=flat-square&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE4C2C?style=flat-square&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Observability-E76F51?style=flat-square&logo=prometheus&logoColor=white" />
 </p>
 
 ---
@@ -147,12 +142,12 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,20,25,30&height=120&section=header&text=NEW%20-%20System%20Performance%20&%20Activity%20Meters&fontSize=24&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,20,25,30&height=120&section=header&text=System%20Performance%20&%20Activity%20Meters&fontSize=24&fontColor=ffffff" width="100%" />
 </div>
 
 ---
 
-### 📊 NEW: Live Developer Metrics & Productivity Matrix
+### 📊 Live Developer Metrics & Productivity Matrix
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/code-review/?username=Adamson-lab&theme=tokyonight&hide_border=true" />
@@ -171,9 +166,9 @@
 
 | Resource | Description |
 | :--- | :--- |
-| **AI Documentation** | Comprehensive guides on AI infrastructure and evaluation workflows |
-| **Projects Hub** | Hands-on production-grade repositories and engineering toolkits |
-| **Agentic Frameworks** | Structured roadmaps for scalable agentic system design |
+| **Enterprise Architecture Documentation** | Comprehensive guides on enterprise reference models, governance frameworks, and decision records[cite: 5] |
+| **Multicloud & ERP Toolkits** | Hands-on production-grade repositories for cloud landing zones and ERP data pipelines |
+| **Network & DevSecOps Roadmaps** | Structured architectures for resilient networking, zero-trust security, and automation |
 
 ---
 
