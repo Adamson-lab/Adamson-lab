@@ -54,7 +54,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adamson-lab&theme=tokyo-night&hide_border=true&area=true&hide_title=false" width="100%" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Adamson-lab&theme=tokyonight&hide_border=true&langs_count=8" alt="Wakatime Stats" />
 </div>
 
 ---
