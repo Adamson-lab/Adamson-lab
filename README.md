@@ -233,7 +233,7 @@
 
 <div align="center">
   <h3>⚡ Profile Visitor Counter</h3>
-  <img src="https://komarev.com/ghpvc/?username=Adamson-lab&color=blueviolet&style=flat-square" alt="Adamson-lab" />
+  <img src="https://img.shields.io/badge/Profile_Views-Active-blueviolet?style=flat-square&logo=github&logoColor=white" alt="Visitor Counter" />
 </div>
 
 ---
