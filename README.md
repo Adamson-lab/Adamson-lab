@@ -30,9 +30,9 @@
 
 ### 👋 About Me & Core Mission
 
-* I build scalable cloud platforms, AI infrastructure, Internal Developer Platforms (IDPs), and Agentic AI systems that help engineering teams build, deploy, and operate applications faster[cite: 11].
-* My technical focus spans modern Platform Engineering, Cloud Native technologies, DevOps Automation, MLOps, LLMOps, Generative AI, AI Agents, Model Context Protocol (MCP), and Developer Experience[cite: 11].
-* I enjoy engineering open-source tools, automated testing frameworks, production-ready AI platforms, and comprehensive documentation resources that simplify complex architectural problems[cite: 11].
+* I build scalable cloud platforms, AI infrastructure, Internal Developer Platforms (IDPs), and Agentic AI systems that help engineering teams build, deploy, and operate applications faster.
+* My technical focus spans modern Platform Engineering, Cloud Native technologies, DevOps Automation, MLOps, LLMOps, Generative AI, AI Agents, Model Context Protocol (MCP), and Developer Experience.
+* I enjoy engineering open-source tools, automated testing frameworks, production-ready AI platforms, and comprehensive documentation resources that simplify complex architectural problems.
 
 ---
 
@@ -73,9 +73,9 @@
 
 | Domain | Focus Areas | Technical Stack |
 | :--- | :--- | :--- |
-| **Platform Engineering** | Internal Developer Platforms (IDPs), DevOps Automation[cite: 11] | Linux, Bash, GitOps[cite: 16] |
-| **Cloud Systems** | Kubernetes, GitOps, Infrastructure Architecture[cite: 11] | AWS, Terraform, Docker[cite: 16] |
-| **AI & MLOps** | LLMOps, Generative AI, AI Agents, Model Context Protocol (MCP)[cite: 11] | LangGraph, LangChain, Google ADK |
+| **Platform Engineering** | Internal Developer Platforms (IDPs), DevOps Automation | Linux, Bash, GitOps |
+| **Cloud Systems** | Kubernetes, GitOps, Infrastructure Architecture | AWS, Terraform, Docker |
+| **AI & MLOps** | LLMOps, Generative AI, AI Agents, Model Context Protocol (MCP) | LangGraph, LangChain, Google ADK |
 | **Automation** | Prompt Engineering, Retrieval-Augmented Generation (RAG) | Python, OpenAI, Vector DBs |
 
 ---
@@ -156,8 +156,8 @@
 
 | Resource | Description |
 | :--- | :--- |
-| **AI Documentation** | Comprehensive guides on AI infrastructure and evaluation workflows[cite: 17] |
-| **Projects Hub** | Hands-on production-grade repositories and engineering toolkits[cite: 17] |
+| **AI Documentation** | Comprehensive guides on AI infrastructure and evaluation workflows |
+| **Projects Hub** | Hands-on production-grade repositories and engineering toolkits |
 | **Agentic Frameworks** | Structured roadmaps for scalable agentic system design |
 
 ---
