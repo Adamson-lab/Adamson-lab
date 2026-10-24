@@ -54,7 +54,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Adamson-lab&theme=tokyonight&hide_border=true&langs_count=8" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/reposps/?username=Adamson-lab&theme=tokyonight&hide_border=true" alt="Repositories Per Language/Source" />
 </div>
 
 ---
