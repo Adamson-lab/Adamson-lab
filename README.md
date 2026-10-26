@@ -88,21 +88,16 @@
 
 ### 📊 GitHub Analytics & Performance
 
+<!-- Perfect Grid Row 1: Both inherently generate at exactly the same 195px height -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adamson-lab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamson-lab&layout=compact&theme=tokyonight&hide_border=true" height="195" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adamson-lab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adamson-lab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<br />
-
+<!-- Perfect Grid Row 2: Grouping Language Visualizations -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adamson-lab&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamson-lab&langs_count=8&theme=tokyonight&hide_border=true&layout=donut" height="215" alt="Language Analytics Donut" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamson-lab&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamson-lab&langs_count=8&theme=tokyonight&hide_border=true&layout=donut" alt="Language Analytics Donut" />
 </div>
 
 ---
@@ -131,7 +126,7 @@
 
 <!--START_SECTION:ea-feed-->
 - **[The Open Group - TOGAF Standard, 10th Edition](https://www.opengroup.org/togaf)**: Official framework, guides, and certification standards for Enterprise Architecture.
-- **[SAP Enterprise Architecture Community](https://community.sap.com/topics/enterprise-architecture)**: Official active community hub for blueprints, reference architectures, and enterprise transformation guides.
+- **[SAP Enterprise Architecture Community Hub](https://community.sap.com/t5/enterprise-architecture/ct-p/enterprise-architecture)**: Official active community hub for blueprints, reference architectures, and enterprise transformation guides.
 - **[SAP Enterprise Architect Certification Program](https://training.sap.com/)**: Professional credential roadmap and official learning journeys.
 - **[The Open Group Library & Whitepapers](https://www.opengroup.org/library)**: Official repository for global enterprise architecture standards, whitepapers, and conference publications.
 <!--END_SECTION:ea-feed-->
