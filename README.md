@@ -113,6 +113,17 @@
 
 ---
 
+### 🏛️ Official Enterprise Architecture & TOGAF / SAP Resources
+
+<!--START_SECTION:ea-feed-->
+- **[The Open Group - TOGAF Standard, 10th Edition](https://www.opengroup.org/togaf)**: Official framework, guides, and certification standards for Enterprise Architecture.
+- **[SAP Enterprise Architecture Explorer](https://www.sap.com/developer/topics/enterprise-architecture.html)**: Official blueprints, reference architectures, and enterprise transformation guides.
+- **[SAP Enterprise Architect Certification Program](https://training.sap.com/)**: Professional credential roadmap and official learning journeys.
+- **[The Open Group Library & Whitepapers](https://www.opengroup.org/library)**: Official repository for global enterprise architecture standards, whitepapers, and conference publications.
+<!--END_SECTION:ea-feed-->
+
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,20,25,30&height=120&section=header&text=Core%20Architectural%20Principles&fontSize=24&fontColor=ffffff" width="100%" />
 </div>
