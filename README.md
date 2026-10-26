@@ -88,16 +88,18 @@
 
 ### 📊 GitHub Analytics & Performance
 
-<!-- Perfect Grid Row 1: Both inherently generate at exactly the same 195px height -->
+<!-- Perfectly matched equal-height cards side-by-side -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adamson-lab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adamson-lab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adamson-lab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamson-lab&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="195" alt="Most Used Languages" />
 </div>
 
-<!-- Perfect Grid Row 2: Grouping Language Visualizations -->
+<br />
+
+<!-- Streak and Donut Chart side-by-side with matched height -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamson-lab&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamson-lab&langs_count=8&theme=tokyonight&hide_border=true&layout=donut" alt="Language Analytics Donut" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adamson-lab&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamson-lab&langs_count=6&theme=tokyonight&hide_border=true&layout=donut" height="195" alt="Language Analytics Donut" />
 </div>
 
 ---
