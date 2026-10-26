@@ -9,7 +9,7 @@
   <a href="https://aws.amazon.com/architecture/" title="AWS Architecture"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" /></a>
   <a href="https://learn.microsoft.com/en-us/azure/architecture/" title="Azure Architecture"><img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" /></a>
   <a href="https://cloud.google.com/architecture" title="Google Cloud Architecture"><img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" /></a>
-  <a href="https://www.oracle.com/cloud/iaas/" title="Oracle Cloud Infrastructure"><img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud" /></a>
+  <a href="https://www.oracle.com/cloud/" title="Oracle Cloud Infrastructure"><img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud" /></a>
   <a href="https://www.ibm.com/cloud/architecture" title="IBM Cloud"><img src="https://img.shields.io/badge/IBM_Cloud-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Cloud" /></a>
   <a href="https://www.cncf.io/" title="DevSecOps & Cloud Native Hub"><img src="https://img.shields.io/badge/DevSecOps-FF6F00?style=for-the-badge&logo=kubernetes&logoColor=white" alt="DevSecOps" /></a>
   <a href="https://www.sap.com/products/erp/s4hana.html" title="SAP ERP & S/4HANA Hub"><img src="https://img.shields.io/badge/ERP_Systems-007ACC?style=for-the-badge&logo=sap&logoColor=white" alt="ERP Systems" /></a>
