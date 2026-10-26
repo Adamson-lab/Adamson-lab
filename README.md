@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,25,30&height=220&section=header&text=FAVOUR%20%20ADAMSON&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="./favour_banner.png" width="100%" alt="Favour Adamson Banner" />
 </div>
 
 <h2 align="center">⚡ F A V O U R &nbsp; A D A M S O N ⚡</h2>
