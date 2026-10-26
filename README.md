@@ -6,9 +6,9 @@
 
 <p align="center">
   <a href="https://www.opengroup.org/togaf"><img src="https://img.shields.io/badge/Enterprise_Architecture-00599C?style=for-the-badge&logo=TOGAF&logoColor=white" alt="Enterprise Architecture" /></a>
-  <a href="https://aws.amazon.com/architecture/" title="AWS"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
-  <a href="https://learn.microsoft.com/en-us/azure/architecture/" title="Azure"><img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /></a>
-  <a href="https://cloud.google.com/architecture" title="GCP"><img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /></a>
+  <a href="https://aws.amazon.com/architecture/" title="AWS"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
+  <a href="https://learn.microsoft.com/en-us/azure/architecture/" title="Azure"><img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
+  <a href="https://cloud.google.com/architecture" title="GCP"><img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /></a>
   <a href="https://www.oracle.com/cloud/iaas/" title="OCI"><img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
   <a href="https://www.ibm.com/cloud/architecture" title="IBM Cloud"><img src="https://img.shields.io/badge/IBM_Cloud-052FAD?style=for-the-badge&logo=ibm&logoColor=white" /></a>
   <a href="https://www.cncf.io/"><img src="https://img.shields.io/badge/DevSecOps-FF6F00?style=for-the-badge&logo=kubernetes&logoColor=white" alt="DevSecOps" /></a>
