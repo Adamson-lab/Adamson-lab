@@ -5,16 +5,16 @@
 <h2 align="center">⚡ F A V O U R &nbsp; A D A M S O N ⚡</h2>
 
 <p align="center">
-  <a href="https://www.opengroup.org/togaf" title="TOGAF & Enterprise Architecture Hub"><img src="https://img.shields.io/badge/Enterprise_Architecture-00599C?style=for-the-badge&logo=TOGAF&logoColor=white" alt="Enterprise Architecture" /></a>
-  <a href="https://aws.amazon.com/architecture/" title="AWS Architecture"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /></a>
-  <a href="https://learn.microsoft.com/en-us/azure/architecture/" title="Azure Architecture"><img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" /></a>
-  <a href="https://cloud.google.com/architecture" title="Google Cloud Architecture"><img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" /></a>
-  <a href="https://www.oracle.com/cloud/iaas/" title="Oracle Cloud Infrastructure"><img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud" /></a>
-  <a href="https://www.ibm.com/cloud/architecture" title="IBM Cloud"><img src="https://img.shields.io/badge/IBM_Cloud-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Cloud" /></a>
-  <a href="https://www.cncf.io/" title="DevSecOps & Cloud Native Hub"><img src="https://img.shields.io/badge/DevSecOps-FF6F00?style=for-the-badge&logo=kubernetes&logoColor=white" alt="DevSecOps" /></a>
-  <a href="https://www.sap.com/products/erp/s4hana.html" title="SAP ERP & S/4HANA Hub"><img src="https://img.shields.io/badge/ERP_Systems-007ACC?style=for-the-badge&logo=sap&logoColor=white" alt="ERP Systems" /></a>
-  <a href="https://www.cisco.com/c/en/us/solutions/enterprise-networks/index.html" title="Network Architecture Hub"><img src="https://img.shields.io/badge/Network_Architecture-FF2D00?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Architecture" /></a>
-  <a href="https://www.nvidia.com/en-us/ai-data-science/" title="NVIDIA AI Infrastructure"><img src="https://img.shields.io/badge/AI_Infrastructure-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="AI Infrastructure" /></a>
+  <a href="https://www.opengroup.org/togaf" title="TOGAF & Enterprise Architecture Hub"><img src="https://img.shields.io/badge/Enterprise_Architecture-00599C?style=for-the-badge&logo=togaf&logoColor=white&v=4" alt="Enterprise Architecture" /></a>
+  <a href="https://aws.amazon.com/architecture/" title="AWS Architecture"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&v=4" alt="AWS" /></a>
+  <a href="https://learn.microsoft.com/en-us/azure/architecture/" title="Azure Architecture"><img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white&v=4" alt="Azure" /></a>
+  <a href="https://cloud.google.com/architecture" title="Google Cloud Architecture"><img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&v=4" alt="GCP" /></a>
+  <a href="https://www.oracle.com/cloud/iaas/" title="Oracle Cloud Infrastructure"><img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white&v=4" alt="Oracle Cloud" /></a>
+  <a href="https://www.ibm.com/cloud/architecture" title="IBM Cloud"><img src="https://img.shields.io/badge/IBM_Cloud-052FAD?style=for-the-badge&logo=ibm&logoColor=white&v=4" alt="IBM Cloud" /></a>
+  <a href="https://www.cncf.io/" title="DevSecOps & Cloud Native Hub"><img src="https://img.shields.io/badge/DevSecOps-FF6F00?style=for-the-badge&logo=kubernetes&logoColor=white&v=4" alt="DevSecOps" /></a>
+  <a href="https://www.sap.com/products/erp/s4hana.html" title="SAP ERP & S/4HANA Hub"><img src="https://img.shields.io/badge/ERP_Systems-007ACC?style=for-the-badge&logo=sap&logoColor=white&v=4" alt="ERP Systems" /></a>
+  <a href="https://www.cisco.com/c/en/us/solutions/enterprise-networks/index.html" title="Network Architecture Hub"><img src="https://img.shields.io/badge/Network_Architecture-FF2D00?style=for-the-badge&logo=cisco&logoColor=white&v=4" alt="Network Architecture" /></a>
+  <a href="https://www.nvidia.com/en-us/ai-data-science/" title="NVIDIA AI Infrastructure"><img src="https://img.shields.io/badge/AI_Infrastructure-76B900?style=for-the-badge&logo=nvidia&logoColor=white&v=4" alt="AI Infrastructure" /></a>
 </p>
 
 <p align="center">
@@ -77,7 +77,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,20,25,30&height=120&section=header&text=Professional%20Certifications&fontSize=24&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,20,25,30&height=120&section=header&text=GitHub%20Metrics%20&%20Analytics&fontSize=24&fontColor=ffffff" width="100%" />
 </div>
 
 ---
@@ -170,48 +170,48 @@
 ### 🛠️ Comprehensive Tech Stack & Infrastructure Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Enterprise_Architecture-00599C?style=flat-square&logo=TOGAF&logoColor=white" />
-  <img src="https://img.shields.io/badge/Multicloud_Architecture-239120?style=flat-square&logo=cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevSecOps-FF6F00?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/ERP_Systems-007ACC?style=flat-square&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Network_Architecture-FF2D00?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Enterprise_Architecture-00599C?style=flat-square&logo=togaf&logoColor=white&v=4" />
+  <img src="https://img.shields.io/badge/Multicloud_Architecture-239120?style=flat-square&logo=cloud&logoColor=white&v=4" />
+  <img src="https://img.shields.io/badge/DevSecOps-FF6F00?style=flat-square&logo=kubernetes&logoColor=white&v=4" />
+  <img src="https://img.shields.io/badge/ERP_Systems-007ACC?style=flat-square&logo=oracle&logoColor=white&v=4" />
+  <img src="https://img.shields.io/badge/Network_Architecture-FF2D00?style=flat-square&logo=cisco&logoColor=white&v=4" />
 </p>
 
 #### ☁️ Cloud Platforms
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&v=4" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white&v=4" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&v=4" />
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white&v=4" />
 </p>
 
 #### 🚀 DevOps, Automation & Orchestration
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE4C2C?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argocd&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&v=4" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&v=4" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white&v=4" />
+  <img src="https://img.shields.io/badge/Ansible-EE4C2C?style=for-the-badge&logo=ansible&logoColor=white&v=4" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white&v=4" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argocd&logoColor=white&v=4" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&v=4" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&v=4" />
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&v=4" />
 </p>
 
 #### 📊 Observability & Monitoring
 <p align="center">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white&v=4" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white&v=4" />
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white&v=4" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white&v=4" />
 </p>
 
 #### 🤖 AI, Scripting & MLOps
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&v=4" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white&v=4" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&v=4" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&v=4" />
 </p>
 
 ---
