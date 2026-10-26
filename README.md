@@ -32,7 +32,7 @@
 
 ---
 
-## 👋 About Me & Core Mission
+### 🌟 About Me & Core Mission
 
 - **Principal Systems Architect & Engineer** with extensive expertise spanning enterprise architecture, multicloud infrastructure modernization, and resilient network design across global environments.
 - **Core Technical Focus**: Specializing in **Enterprise Architecture** (reference architectures, governance, ARBs, and ADRs), **Multicloud Architecture** (AWS, Azure, Google Cloud, and OCI landing zones), **DevSecOps** (Terraform, CI/CD pipelines, automated security gates, and container orchestration), **ERP Systems** (Oracle EBS to Fusion Cloud ERP migrations and enterprise integration fabrics), and **Network Architecture** (BGP, MPLS, SD-WAN, and zero-trust segmentation).
@@ -168,7 +168,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,20,25,30&height=120&section=header&text=Tech%20Stack%20&%20Tools&fontSize=24&fontColor=ffffff" width="100%" />
+  <img src="tech_stack_banner.png" width="100%" alt="Tech Stack & Tools Banner" />
 </div>
 
 ---
