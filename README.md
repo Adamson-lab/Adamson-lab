@@ -5,16 +5,16 @@
 <h2 align="center">⚡ F A V O U R &nbsp; A D A M S O N ⚡</h2>
 
 <p align="center">
-  <a href="https://www.opengroup.org/togaf"><img src="https://img.shields.io/badge/Enterprise_Architecture-00599C?style=for-the-badge&logo=TOGAF&logoColor=white" alt="Enterprise Architecture" /></a>
-  <a href="https://aws.amazon.com/architecture/" title="AWS"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
-  <a href="https://learn.microsoft.com/en-us/azure/architecture/" title="Azure"><img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
-  <a href="https://cloud.google.com/architecture" title="GCP"><img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /></a>
-  <a href="https://www.oracle.com/cloud/iaas/" title="OCI"><img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
-  <a href="https://www.ibm.com/cloud/architecture" title="IBM Cloud"><img src="https://img.shields.io/badge/IBM_Cloud-052FAD?style=for-the-badge&logo=ibm&logoColor=white" /></a>
-  <a href="https://www.cncf.io/"><img src="https://img.shields.io/badge/DevSecOps-FF6F00?style=for-the-badge&logo=kubernetes&logoColor=white" alt="DevSecOps" /></a>
-  <a href="https://www.sap.com/products/erp/s4hana.html"><img src="https://img.shields.io/badge/ERP_Systems-007ACC?style=for-the-badge&logo=sap&logoColor=white" alt="ERP Systems" /></a>
-  <a href="https://www.cisco.com/c/en/us/solutions/enterprise-networks/index.html"><img src="https://img.shields.io/badge/Network_Architecture-FF2D00?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Architecture" /></a>
-  <a href="https://www.nvidia.com/en-us/ai-data-science/"><img src="https://img.shields.io/badge/AI_Infrastructure-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="AI Infrastructure" /></a>
+  <a href="https://www.opengroup.org/togaf" title="TOGAF & Enterprise Architecture Hub"><img src="https://img.shields.io/badge/Enterprise_Architecture-00599C?style=for-the-badge&logo=TOGAF&logoColor=white" alt="Enterprise Architecture" /></a>
+  <a href="https://aws.amazon.com/architecture/" title="AWS Architecture"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /></a>
+  <a href="https://learn.microsoft.com/en-us/azure/architecture/" title="Azure Architecture"><img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft&logoColor=white" alt="Azure" /></a>
+  <a href="https://cloud.google.com/architecture" title="Google Cloud Architecture"><img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" /></a>
+  <a href="https://www.oracle.com/cloud/iaas/" title="Oracle Cloud Infrastructure"><img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud" /></a>
+  <a href="https://www.ibm.com/cloud/architecture" title="IBM Cloud"><img src="https://img.shields.io/badge/IBM_Cloud-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Cloud" /></a>
+  <a href="https://www.cncf.io/" title="DevSecOps & Cloud Native Hub"><img src="https://img.shields.io/badge/DevSecOps-FF6F00?style=for-the-badge&logo=kubernetes&logoColor=white" alt="DevSecOps" /></a>
+  <a href="https://www.sap.com/products/erp/s4hana.html" title="SAP ERP & S/4HANA Hub"><img src="https://img.shields.io/badge/ERP_Systems-007ACC?style=for-the-badge&logo=sap&logoColor=white" alt="ERP Systems" /></a>
+  <a href="https://www.cisco.com/c/en/us/solutions/enterprise-networks/index.html" title="Network Architecture Hub"><img src="https://img.shields.io/badge/Network_Architecture-FF2D00?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Architecture" /></a>
+  <a href="https://www.nvidia.com/en-us/ai-data-science/" title="NVIDIA AI Infrastructure"><img src="https://img.shields.io/badge/AI_Infrastructure-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="AI Infrastructure" /></a>
 </p>
 
 <p align="center">
@@ -179,9 +179,9 @@
 
 #### ☁️ Cloud Platforms
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
