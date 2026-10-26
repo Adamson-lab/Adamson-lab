@@ -41,7 +41,9 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,20,25,30&height=120&section=header&text=Professional%20Certifications&fontSize=24&fontColor=ffffff" width="100%" />
+  <a href="https://www.credly.com/users/adamson-favour">
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,20,25,30&height=120&section=header&text=Professional%20Certifications&fontSize=24&fontColor=ffffff" width="100%" alt="Professional Certifications" />
+  </a>
 </div>
 
 ---
@@ -77,7 +79,9 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,20,25,30&height=120&section=header&text=GitHub%20Metrics%20&%20Analytics&fontSize=24&fontColor=ffffff" width="100%" />
+  <a href="https://github.com/Adamson-lab">
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,20,25,30&height=120&section=header&text=GitHub%20Metrics%20&%20Analytics&fontSize=24&fontColor=ffffff" width="100%" alt="GitHub Metrics" />
+  </a>
 </div>
 
 ---
@@ -85,22 +89,28 @@
 ### 📊 GitHub Analytics & Performance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adamson-lab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamson-lab&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adamson-lab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamson-lab&layout=compact&theme=tokyonight&hide_border=true" height="195" alt="Most Used Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adamson-lab&theme=tokyonight&hide_border=true" />
-</div>
+<br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamson-lab&langs_count=8&theme=tokyonight&hide_border=true&layout=donut" alt="Language Analytics" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adamson-lab&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamson-lab&langs_count=8&theme=tokyonight&hide_border=true&layout=donut" height="215" alt="Language Analytics Donut" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,20,25,30&height=120&section=header&text=Architecture%20&%20Engineering%20Domains&fontSize=24&fontColor=ffffff" width="100%" />
+  <a href="https://favour-adamson.vercel.app/work">
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,20,25,30&height=120&section=header&text=Architecture%20&%20Engineering%20Domains&fontSize=24&fontColor=ffffff" width="100%" alt="Architecture Domains" />
+  </a>
 </div>
 
 ---
@@ -121,7 +131,7 @@
 
 <!--START_SECTION:ea-feed-->
 - **[The Open Group - TOGAF Standard, 10th Edition](https://www.opengroup.org/togaf)**: Official framework, guides, and certification standards for Enterprise Architecture.
-- **[SAP Enterprise Architecture Explorer](https://www.sap.com/developer/topics/enterprise-architecture.html)**: Official blueprints, reference architectures, and enterprise transformation guides.
+- **[SAP Enterprise Architecture Community](https://community.sap.com/topics/enterprise-architecture)**: Official active community hub for blueprints, reference architectures, and enterprise transformation guides.
 - **[SAP Enterprise Architect Certification Program](https://training.sap.com/)**: Professional credential roadmap and official learning journeys.
 - **[The Open Group Library & Whitepapers](https://www.opengroup.org/library)**: Official repository for global enterprise architecture standards, whitepapers, and conference publications.
 <!--END_SECTION:ea-feed-->
