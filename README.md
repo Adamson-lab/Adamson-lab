@@ -5,12 +5,27 @@
 <h2 align="center">⚡ F A V O U R &nbsp; A D A M S O N ⚡</h2>
 
 <p align="center">
-  <a href="https://www.opengroup.org/togaf" title="TOGAF & Enterprise Architecture Hub"><img src="https://img.shields.io/badge/Enterprise_Architecture-00599C?style=for-the-badge&logo=TOGAF&logoColor=white" alt="Enterprise Architecture" /></a>
-  <a href="https://aws.amazon.com/architecture/well-architected/" title="Multicloud & Well-Architected Hub"><img src="https://img.shields.io/badge/Multicloud_Architecture-239120?style=for-the-badge&logo=cloud&logoColor=white" alt="Multicloud Architecture" /></a>
-  <a href="https://www.cncf.io/" title="DevSecOps & Cloud Native Hub"><img src="https://img.shields.io/badge/DevSecOps-FF6F00?style=for-the-badge&logo=kubernetes&logoColor=white" alt="DevSecOps" /></a>
-  <a href="https://www.sap.com/products/erp/s4hana.html" title="SAP ERP & S/4HANA Hub"><img src="https://img.shields.io/badge/ERP_Systems-007ACC?style=for-the-badge&logo=sap&logoColor=white" alt="ERP Systems" /></a>
-  <a href="https://www.cisco.com/c/en/us/solutions/enterprise-networks/index.html" title="Network Architecture Hub"><img src="https://img.shields.io/badge/Network_Architecture-FF2D00?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Architecture" /></a>
-  <a href="https://openai.com/research/" title="AI Infrastructure & Research Hub"><img src="https://img.shields.io/badge/AI_Infrastructure-6C5CE7?style=for-the-badge&logo=openai&logoColor=white" alt="AI Infrastructure" /></a>
+  <!-- Enterprise Architecture -->
+  <a href="https://www.opengroup.org/togaf" title="TOGAF Official Standard"><img src="https://img.shields.io/badge/Enterprise%20Architecture-00599C?style=for-the-badge&logo=TOGAF&logoColor=white" alt="Enterprise Architecture" /></a>
+  
+  <!-- Multicloud Architecture (AWS, Azure, GCP, OCI, IBM Cloud) -->
+  <a href="https://aws.amazon.com/architecture/" title="AWS Architecture"><img src="https://img.shields.io/badge/AWS-239120?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /></a>
+  <a href="https://learn.microsoft.com/en-us/azure/architecture/" title="Azure Architecture"><img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" /></a>
+  <a href="https://cloud.google.com/architecture" title="Google Cloud Architecture"><img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" /></a>
+  <a href="https://www.oracle.com/cloud/iaas/" title="Oracle Cloud Infrastructure"><img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI" /></a>
+  <a href="https://www.ibm.com/cloud/architecture" title="IBM Cloud"><img src="https://img.shields.io/badge/IBM%20Cloud-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Cloud" /></a>
+
+  <!-- DevSecOps -->
+  <a href="https://www.cncf.io/" title="DevSecOps & Cloud Native"><img src="https://img.shields.io/badge/DevSecOps-FF6F00?style=for-the-badge&logo=kubernetes&logoColor=white" alt="DevSecOps" /></a>
+
+  <!-- ERP Systems -->
+  <a href="https://www.sap.com/products/erp/s4hana.html" title="SAP ERP Leader"><img src="https://img.shields.io/badge/ERP%20Systems-007ACC?style=for-the-badge&logo=sap&logoColor=white" alt="ERP Systems" /></a>
+
+  <!-- Network Architecture -->
+  <a href="https://www.cisco.com/c/en/us/solutions/enterprise-networks/index.html" title="Cisco Enterprise Networks"><img src="https://img.shields.io/badge/Network%20Architecture-FF2D00?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Architecture" /></a>
+
+  <!-- AI Infrastructure (NVIDIA) -->
+  <a href="https://www.nvidia.com/en-us/ai-data-science/" title="NVIDIA AI Infrastructure"><img src="https://img.shields.io/badge/AI%20Infrastructure-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="AI Infrastructure" /></a>
 </p>
 
 <p align="center">
