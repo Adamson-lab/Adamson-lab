@@ -5,12 +5,12 @@
 <h2 align="center">⚡ F A V O U R &nbsp; A D A M S O N ⚡</h2>
 
 <p align="center">
-  <a href="https://www.opengroup.org/togaf"><img src="https://img.shields.io/badge/Enterprise_Architecture-00599C?style=for-the-badge&logo=TOGAF&logoColor=white" alt="TOGAF Enterprise Architecture" /></a>
-  <img src="https://img.shields.io/badge/Multicloud_Architecture-239120?style=for-the-badge&logo=cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevSecOps-FF6F00?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/ERP_Systems-007ACC?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Network_Architecture-FF2D00?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Infrastructure-6C5CE7?style=for-the-badge&logo=openai&logoColor=white" />
+  <a href="https://www.opengroup.org/togaf" title="TOGAF & Enterprise Architecture Hub"><img src="https://img.shields.io/badge/Enterprise_Architecture-00599C?style=for-the-badge&logo=TOGAF&logoColor=white" alt="Enterprise Architecture" /></a>
+  <a href="https://aws.amazon.com/architecture/well-architected/" title="Multicloud & Well-Architected Hub"><img src="https://img.shields.io/badge/Multicloud_Architecture-239120?style=for-the-badge&logo=cloud&logoColor=white" alt="Multicloud Architecture" /></a>
+  <a href="https://www.cncf.io/" title="DevSecOps & Cloud Native Hub"><img src="https://img.shields.io/badge/DevSecOps-FF6F00?style=for-the-badge&logo=kubernetes&logoColor=white" alt="DevSecOps" /></a>
+  <a href="https://www.oracle.com/cloud/enterprise-resource-planning/" title="ERP Systems Hub"><img src="https://img.shields.io/badge/ERP_Systems-007ACC?style=for-the-badge&logo=oracle&logoColor=white" alt="ERP Systems" /></a>
+  <a href="https://www.cisco.com/c/en/us/solutions/enterprise-networks/index.html" title="Network Architecture Hub"><img src="https://img.shields.io/badge/Network_Architecture-FF2D00?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Architecture" /></a>
+  <a href="https://openai.com/research/" title="AI Infrastructure & Research Hub"><img src="https://img.shields.io/badge/AI_Infrastructure-6C5CE7?style=for-the-badge&logo=openai&logoColor=white" alt="AI Infrastructure" /></a>
 </p>
 
 <p align="center">
