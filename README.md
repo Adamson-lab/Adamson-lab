@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.opengroup.org/togaf" title="TOGAF & Enterprise Architecture Hub"><img src="https://img.shields.io/badge/Enterprise_Architecture-00599C?style=for-the-badge&logo=TOGAF&logoColor=white" alt="Enterprise Architecture" /></a>
   <a href="https://aws.amazon.com/architecture/" title="AWS Architecture"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /></a>
-  <a href="https://learn.microsoft.com/en-us/azure/architecture/" title="Azure Architecture"><img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft&logoColor=white" alt="Azure" /></a>
+  <a href="https://learn.microsoft.com/en-us/azure/architecture/" title="Azure Architecture"><img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" /></a>
   <a href="https://cloud.google.com/architecture" title="Google Cloud Architecture"><img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" /></a>
   <a href="https://www.oracle.com/cloud/iaas/" title="Oracle Cloud Infrastructure"><img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud" /></a>
   <a href="https://www.ibm.com/cloud/architecture" title="IBM Cloud"><img src="https://img.shields.io/badge/IBM_Cloud-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Cloud" /></a>
@@ -77,7 +77,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,20,25,30&height=120&section=header&text=GitHub%20Metrics%20&%20Analytics&fontSize=24&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,20,25,30&height=120&section=header&text=Professional%20Certifications&fontSize=24&fontColor=ffffff" width="100%" />
 </div>
 
 ---
@@ -180,7 +180,7 @@
 #### ☁️ Cloud Platforms
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
