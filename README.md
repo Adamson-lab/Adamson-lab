@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="./favour_banner.png" width="100%" alt="Favour Adamson Banner" />
+  <img src="favour_banner.png" width="100%" alt="Favour Adamson Banner" />
 </div>
 
 <h2 align="center">⚡ F A V O U R &nbsp; A D A M S O N ⚡</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Enterprise_Architecture-00599C?style=for-the-badge&logo=TOGAF&logoColor=white" />
+  <a href="https://www.opengroup.org/togaf"><img src="https://img.shields.io/badge/Enterprise_Architecture-00599C?style=for-the-badge&logo=TOGAF&logoColor=white" alt="TOGAF Enterprise Architecture" /></a>
   <img src="https://img.shields.io/badge/Multicloud_Architecture-239120?style=for-the-badge&logo=cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/DevSecOps-FF6F00?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/ERP_Systems-007ACC?style=for-the-badge&logo=oracle&logoColor=white" />
