@@ -32,7 +32,7 @@
 
 ---
 
-### 🌟 About Me & Core Mission
+## 👋 About Me & Core Mission
 
 - **Principal Systems Architect & Engineer** with extensive expertise spanning enterprise architecture, multicloud infrastructure modernization, and resilient network design across global environments.
 - **Core Technical Focus**: Specializing in **Enterprise Architecture** (reference architectures, governance, ARBs, and ADRs), **Multicloud Architecture** (AWS, Azure, Google Cloud, and OCI landing zones), **DevSecOps** (Terraform, CI/CD pipelines, automated security gates, and container orchestration), **ERP Systems** (Oracle EBS to Fusion Cloud ERP migrations and enterprise integration fabrics), and **Network Architecture** (BGP, MPLS, SD-WAN, and zero-trust segmentation).
@@ -42,7 +42,7 @@
 
 <div align="center">
   <a href="https://www.credly.com/users/adamson-favour">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,20,25,30&height=120&section=header&text=Professional%20Certifications&fontSize=24&fontColor=ffffff" width="100%" alt="Professional Certifications" />
+    <img src="professional_certifications.png" width="100%" alt="Professional Certifications" />
   </a>
 </div>
 
@@ -79,9 +79,7 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/Adamson-lab">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,20,25,30&height=120&section=header&text=GitHub%20Metrics%20&%20Analytics&fontSize=24&fontColor=ffffff" width="100%" alt="GitHub Metrics" />
-  </a>
+  <img src="github_metrics.png" width="100%" alt="GitHub Metrics" />
 </div>
 
 ---
@@ -104,9 +102,7 @@
 ---
 
 <div align="center">
-  <a href="https://favour-adamson.vercel.app/work">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,20,25,30&height=120&section=header&text=Architecture%20&%20Engineering%20Domains&fontSize=24&fontColor=ffffff" width="100%" alt="Architecture Domains" />
-  </a>
+  <img src="architecture.png" width="100%" alt="Architecture Domains" />
 </div>
 
 ---
@@ -135,7 +131,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,20,25,30&height=120&section=header&text=Core%20Architectural%20Principles&fontSize=24&fontColor=ffffff" width="100%" />
+  <img src="core_architectural_principles.png" width="100%" alt="Core Architectural Principles" />
 </div>
 
 ---
@@ -151,7 +147,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,20,25,30&height=120&section=header&text=Featured%20Projects%20&%20Toolkits&fontSize=24&fontColor=ffffff" width="100%" />
+  <img src="featured_projects.png" width="100%" alt="Featured Projects & Toolkits" />
 </div>
 
 ---
@@ -168,7 +164,7 @@
 ---
 
 <div align="center">
-  <img src="tech_stack_banner.png" width="100%" alt="Tech Stack & Tools Banner" />
+  <img src="tech_stack_banner.png" width="100%" alt="Tech Stack & Tools" />
 </div>
 
 ---
@@ -224,7 +220,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,20,25,30&height=120&section=header&text=System%20Performance%20&%20Repository%20Spotlight&fontSize=24&fontColor=ffffff" width="100%" />
+  <img src="system_performance.png" width="100%" alt="System Performance & Repository Spotlight" />
 </div>
 
 ---
@@ -238,7 +234,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,20,25,30&height=120&section=header&text=Learning%20Hub%20&%20Resources&fontSize=24&fontColor=ffffff" width="100%" />
+  <img src="learning_hub.png" width="100%" alt="Learning Hub & Resources" />
 </div>
 
 ---
@@ -261,5 +257,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,20,25,30&height=80&section=footer&text=Let's%20build%20and%20innovate%20together!&fontSize=20&fontColor=ffffff" width="100%" />
+  <img src="lets_build_and_innovate.png" width="100%" alt="Let's build and innovate together!" />
 </div>
