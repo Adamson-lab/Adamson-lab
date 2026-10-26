@@ -220,7 +220,7 @@
 ---
 
 <div align="center">
-  <img src="system_performance.png" width="100%" alt="System Performance & Repository Spotlight" />
+  <img src="system_performance.png" width="100%" alt="System Performance" />
 </div>
 
 ---
