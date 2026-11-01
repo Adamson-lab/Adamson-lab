@@ -53,31 +53,40 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td align="center"><a href="https://www.credly.com/badges/d985fe1a-51e0-4db4-a536-cc89d858ff72"><img width="115" src="./badges/SAP_EA.png" alt="SAP Enterprise Architect Certified" /></a></td>
-      <td align="center"><a href="https://www.credly.com/badges/96695dc1-fa55-4e9e-b59e-1c07a241a481"><img width="115" src="./badges/AWS_SAP.png" alt="AWS Certified Solutions Architect Professional" /></a></td>
-      <td align="center"><a href="https://www.credly.com/badges/7f8e735-b290-492b-bd6a-7fa09ee73e5d"><img width="115" src="./badges/GCP_CA.png" alt="Google Cloud Professional Cloud Architect" /></a></td>
-      <td align="center"><a href="https://learn.microsoft.com/api/credentials/share/en-us/AdamsonFavourIkeoluwa-0573/D5AA23332324B8C9?sharingId=FDE125CE4406F284"><img width="115" src="./badges/5e8f2e11-71bd-43a2-adde-d0d7ec0237bd.png" alt="Azure Solutions Architect Expert" /></a></td>
-      <td align="center"><a href="https://learn.microsoft.com/en-us/users/adamsonfavourikeoluwa-0573/credentials/101af57f2f5a65f1"><img width="115" src="./badges/CERT-Expert-DevOps-Engineer-600x600.png" alt="Microsoft Certified DevOps Engineer Expert" /></a></td>
-      <td align="center"><a href="https://www.credly.com/badges/0bd3e0fe-4683-4a90-88a4-a5c8412dd67a"><img width="115" src="./badges/7169f8f0-ad1d-4bda-8584-f4bc3c3e1c9d.png" alt="Google Cloud Professional Cloud Security Engineer" /></a></td>
-      <td align="center"><a href="https://www.credly.com/badges/5e7b265a-4e00-4344-a048-b6c8f509ceb7"><img width="115" src="./badges/3337e13e-16d9-488b-962d-658e018f367e.png" alt="Google Cloud Professional Machine Learning Engineer" /></a></td>
+      <td align="center" width="25%"><a href="https://www.credly.com/badges/d985fe1a-51e0-4db4-a536-cc89d858ff72"><img width="115" src="./badges/SAP_EA.png" alt="SAP Enterprise Architect Certified" /></a></td>
+      <td align="center" width="25%"><a href="https://www.credly.com/badges/96695dc1-fa55-4e9e-b59e-1c07a241a481"><img width="115" src="./badges/AWS_SAP.png" alt="AWS Certified Solutions Architect Professional" /></a></td>
+      <td align="center" width="25%"><a href="https://www.credly.com/badges/7f8e735-b290-492b-bd6a-7fa09ee73e5d"><img width="115" src="./badges/GCP_CA.png" alt="Google Cloud Professional Cloud Architect" /></a></td>
+      <td align="center" width="25%"><a href="https://learn.microsoft.com/api/credentials/share/en-us/AdamsonFavourIkeoluwa-0573/D5AA23332324B8C9?sharingId=FDE125CE4406F284"><img width="115" src="./badges/5e8f2e11-71bd-43a2-adde-d0d7ec0237bd.png" alt="Azure Solutions Architect Expert" /></a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://www.credly.com/badges/e4f44067-48fe-46cf-a149-1310b9e0a735"><img width="115" src="./badges/26578bc4-0a12-4030-aceb-f9cc4bd890c8.png" alt="Google Cloud Professional Cloud Network Engineer" /></a></td>
-      <td align="center"><a href="https://www.credly.com/badges/24c9bb72-5737-4508-8007-818a1bd5f559"><img width="115" src="./badges/04bfd69e-56dd-413f-8f9c-863764c72dc1.png" alt="AWS Certified Security Specialty" /></a></td>
-      <td align="center"><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=BB9DAF223CF23265573FBC9A10D7D1A18F3BF55BF3152E13C3065D00C37596E5"><img width="115" src="./badges/eab6115a-25ed-4c83-b77a-d8e26500cf6e.png" alt="Oracle Cloud Infrastructure Multicloud Architect Professional" /></a></td>
-      <td align="center"><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=BEA40C92D677A7D39BC233C20B2519843A23C1D3457164505EE66F0BEE812607&fbclid=IwY2xjawMG6mpleHRuA2FlbQIxMQBicmlkETFyRUIycVh2M096NE9qQVNHAR6EwVKpFoUCfqkCseVomqeLhYoDIrlKVyT2M6_KK4KrOLtqZnTWINeu1UMUsw_aem_gRrsQMTIfgIBNkJxMVA4xg"><img width="115" src="./badges/a46fa2d8-96c2-4b0c-bcf6-305317475b1a.png" alt="Oracle Cloud Infrastructure Migration Architect Professional" /></a></td>
-      <td align="center"><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=4A36A6DCF31B25963CC44BA53F78B8DB926F0371473B986F6E547C9108C6C71A"><img width="115" src="./badges/052fa21b-a4e6-4d15-88ce-d1f40ad7a969.png" alt="Oracle Cloud Infrastructure DevOps Professional" /></a></td>
-      <td align="center"><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=5B197A627E42F9898F3FEE10D161814A028767CC34F53E148AF94F0A145858E1"><img width="115" src="./badges/2c16face-7e62-4ae2-a2e1-baa1308bdc09.png" alt="Oracle Cloud Infrastructure Observability Professional" /></a></td>
-      <td align="center"><a href="https://www.credly.com/badges/4f0b78d2-00b3-4956-b849-5f6b2c30893e"><img width="115" src="./badges/NCP_MCI.png" alt="Nutanix Certified Professional - Multicloud Infrastructure" /></a></td>
+      <td align="center" width="25%"><a href="https://learn.microsoft.com/en-us/users/adamsonfavourikeoluwa-0573/credentials/101af57f2f5a65f1"><img width="115" src="./badges/CERT-Expert-DevOps-Engineer-600x600.png" alt="Microsoft Certified DevOps Engineer Expert" /></a></td>
+      <td align="center" width="25%"><a href="https://www.credly.com/badges/0bd3e0fe-4683-4a90-88a4-a5c8412dd67a"><img width="115" src="./badges/7169f8f0-ad1d-4bda-8584-f4bc3c3e1c9d.png" alt="Google Cloud Professional Cloud Security Engineer" /></a></td>
+      <td align="center" width="25%"><a href="https://www.credly.com/badges/5e7b265a-4e00-4344-a048-b6c8f509ceb7"><img width="115" src="./badges/3337e13e-16d9-488b-962d-658e018f367e.png" alt="Google Cloud Professional Machine Learning Engineer" /></a></td>
+      <td align="center" width="25%"><a href="https://www.credly.com/badges/e4f44067-48fe-46cf-a149-1310b9e0a735"><img width="115" src="./badges/26578bc4-0a12-4030-aceb-f9cc4bd890c8.png" alt="Google Cloud Professional Cloud Network Engineer" /></a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://learn.microsoft.com/api/credentials/share/en-us/AdamsonFavourIkeoluwa-0573/96F9AAF3588E1AB?sharingId=FDE125CE4406F284"><img width="115" src="./badges/azure-security-engineer-associate600x600.png" alt="Microsoft Certified Azure Security Engineer Associate" /></a></td>
-      <td align="center"><a href="https://www.credly.com/badges/1a92627e-644c-4740-9409-8ee12acb8470"><img width="115" src="./badges/d1106ff8-8a9f-4457-863c-6749520c38fd.png" alt="AWS Certified Machine Learning Engineer Associate" /></a></td>
-      <td align="center"><a href="https://learn.microsoft.com/api/credentials/share/en-us/AdamsonFavourIkeoluwa-0573/B06B48B663CC9605?sharingId=FDE125CE4406F284"><img width="115" src="./badges/azure-administrator-associate-600x600.png" alt="Microsoft Certified Azure Administrator Associate" /></a></td>
-      <td align="center"><a href="https://www.credly.com/users/adamson-favour"><img width="115" src="./badges/JUMPCLOUD_2026.png" alt="JumpCloud Certified Advanced 2026" /></a></td>
-      <td align="center"><a href="https://learn.microsoft.com/api/credentials/share/en-us/AdamsonFavourIkeoluwa-0573/3AAAC65E1BA147DE?sharingId=FDE125CE4406F284"><img width="115" src="./badges/image_bb52b7.png" alt="Microsoft Certified: Azure for SAP Workloads Specialty" /></a></td>
-      <td align="center"><a href="https://learn.microsoft.com/api/credentials/share/en-us/AdamsonFavourIkeoluwa-0573/7D821AF1C06A8DA8?sharingId=FDE125CE4406F284"><img width="115" src="./badges/CERT-Expert-Dynamics365-Finance-and-Operations-Apps-Solution-Architect.png" alt="Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert" /></a></td>
-      <td align="center"><a href="https://learn.microsoft.com/api/credentials/share/en-us/AdamsonFavourIkeoluwa-0573/985A3167A47057E?sharingId=FDE125CE4406F284"><img width="115" src="./badges/power-platform-solutions-architect-expert-600x600.png" alt="Microsoft Certified: Power Platform Solution Architect Expert" /></a></td>
+      <td align="center" width="25%"><a href="https://www.credly.com/badges/24c9bb72-5737-4508-8007-818a1bd5f559"><img width="115" src="./badges/04bfd69e-56dd-413f-8f9c-863764c72dc1.png" alt="AWS Certified Security Specialty" /></a></td>
+      <td align="center" width="25%"><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=BB9DAF223CF23265573FBC9A10D7D1A18F3BF55BF3152E13C3065D00C37596E5"><img width="115" src="./badges/eab6115a-25ed-4c83-b77a-d8e26500cf6e.png" alt="Oracle Cloud Infrastructure Multicloud Architect Professional" /></a></td>
+      <td align="center" width="25%"><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=BEA40C92D677A7D39BC233C20B2519843A23C1D3457164505EE66F0BEE812607&fbclid=IwY2xjawMG6mpleHRuA2FlbQIxMQBicmlkETFyRUIycVh2M096NE9qQVNHAR6EwVKpFoUCfqkCseVomqeLhYoDIrlKVyT2M6_KK4KrOLtqZnTWINeu1UMUsw_aem_gRrsQMTIfgIBNkJxMVA4xg"><img width="115" src="./badges/a46fa2d8-96c2-4b0c-bcf6-305317475b1a.png" alt="Oracle Cloud Infrastructure Migration Architect Professional" /></a></td>
+      <td align="center" width="25%"><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=4A36A6DCF31B25963CC44BA53F78B8DB926F0371473B986F6E547C9108C6C71A"><img width="115" src="./badges/052fa21b-a4e6-4d15-88ce-d1f40ad7a969.png" alt="Oracle Cloud Infrastructure DevOps Professional" /></a></td>
+    </tr>
+    <tr>
+      <td align="center" width="25%"><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=5B197A627E42F9898F3FEE10D161814A028767CC34F53E148AF94F0A145858E1"><img width="115" src="./badges/2c16face-7e62-4ae2-a2e1-baa1308bdc09.png" alt="Oracle Cloud Infrastructure Observability Professional" /></a></td>
+      <td align="center" width="25%"><a href="https://www.credly.com/badges/4f0b78d2-00b3-4956-b849-5f6b2c30893e"><img width="115" src="./badges/NCP_MCI.png" alt="Nutanix Certified Professional - Multicloud Infrastructure" /></a></td>
+      <td align="center" width="25%"><a href="https://learn.microsoft.com/api/credentials/share/en-us/AdamsonFavourIkeoluwa-0573/96F9AAF3588E1AB?sharingId=FDE125CE4406F284"><img width="115" src="./badges/azure-security-engineer-associate600x600.png" alt="Microsoft Certified Azure Security Engineer Associate" /></a></td>
+      <td align="center" width="25%"><a href="https://www.credly.com/badges/1a92627e-644c-4740-9409-8ee12acb8470"><img width="115" src="./badges/d1106ff8-8a9f-4457-863c-6749520c38fd.png" alt="AWS Certified Machine Learning Engineer Associate" /></a></td>
+    </tr>
+    <tr>
+      <td align="center" width="25%"><a href="https://learn.microsoft.com/api/credentials/share/en-us/AdamsonFavourIkeoluwa-0573/B06B48B663CC9605?sharingId=FDE125CE4406F284"><img width="115" src="./badges/azure-administrator-associate-600x600.png" alt="Microsoft Certified Azure Administrator Associate" /></a></td>
+      <td align="center" width="25%"><a href="https://www.credly.com/users/adamson-favour"><img width="115" src="./badges/JUMPCLOUD_2026.png" alt="JumpCloud Certified Advanced 2026" /></a></td>
+      <td align="center" width="25%"><a href="https://learn.microsoft.com/api/credentials/share/en-us/AdamsonFavourIkeoluwa-0573/3AAAC65E1BA147DE?sharingId=FDE125CE4406F284"><img width="115" src="./badges/image_bb52b7.png" alt="Microsoft Certified: Azure for SAP Workloads Specialty" /></a></td>
+      <td align="center" width="25%"><a href="https://learn.microsoft.com/api/credentials/share/en-us/AdamsonFavourIkeoluwa-0573/7D821AF1C06A8DA8?sharingId=FDE125CE4406F284"><img width="115" src="./badges/CERT-Expert-Dynamics365-Finance-and-Operations-Apps-Solution-Architect.png" alt="Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert" /></a></td>
+    </tr>
+    <tr>
+      <td align="center" width="25%"><a href="https://learn.microsoft.com/api/credentials/share/en-us/AdamsonFavourIkeoluwa-0573/985A3167A47057E?sharingId=FDE125CE4406F284"><img width="115" src="./badges/power-platform-solutions-architect-expert-600x600.png" alt="Microsoft Certified: Power Platform Solution Architect Expert" /></a></td>
+      <td align="center" width="25%"></td>
+      <td align="center" width="25%"></td>
+      <td align="center" width="25%"></td>
     </tr>
   </table>
 </div>
