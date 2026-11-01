@@ -85,7 +85,7 @@
       <td align="center" width="25%"><a href="https://www.credly.com/badges/24c9bb72-5737-4508-8007-818a1bd5f559"><img width="115" src="./badges/04bfd69e-56dd-413f-8f9c-863764c72dc1.png" alt="AWS Certified Security Specialty" /></a></td>
       <td align="center" width="25%"><a href="https://learn.microsoft.com/api/credentials/share/en-us/AdamsonFavourIkeoluwa-0573/3AAAC65E1BA147DE?sharingId=FDE125CE4406F284"><img width="115" src="./badges/specialty-azure-for-sap-workloads-600x600.png" alt="Microsoft Certified: Azure for SAP Workloads Specialty" /></a></td>
       <td align="center" width="25%"><a href="https://learn.microsoft.com/api/credentials/share/en-us/AdamsonFavourIkeoluwa-0573/96F9AAF3588E1AB?sharingId=FDE125CE4406F284"><img width="115" src="./badges/azure-security-engineer-associate600x600.png" alt="Microsoft Certified Azure Security Engineer Associate" /></a></td>
-      <td align="center" width="25%"><a href="https://learn.microsoft.com/api/credentials/share/en-us/AdamsonFavourIkeoluwa-0573/666908db082764aa"><img width="115" src="./badges/azure-network-engineer-associate-600x600.png" alt="Microsoft Certified: Azure Network Engineer Associate" /></a></td>
+      <td align="center" width="25%"><a href="https://learn.microsoft.com/en-us/users/adamsonfavourikeoluwa-0573/credentials/666908db082764aa"><img width="115" src="./badges/azure-network-engineer-associate-600x600.png" alt="Microsoft Certified: Azure Network Engineer Associate" /></a></td>
     </tr>
     <!-- Row 6: Associates -->
     <tr>
