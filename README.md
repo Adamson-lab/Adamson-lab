@@ -267,7 +267,7 @@
 
 <div align="center">
   <a href="https://github.com/Adamson-lab/ai-response-evaluation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adamson-lab&repo=ai-response-evaluation&theme=tokyonight&hide_border=true" alt="Pinned Repo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adamson-lab&repo=ai-response-evaluation&theme=tokyonight&hide_border=true" width="60%" alt="Pinned Repository" />
   </a>
 </div>
 
