@@ -183,6 +183,10 @@
 | **[ai-constraint-testing-suite](https://github.com/Adamson-lab/ai-constraint-testing-suite)** | Advanced constraint testing toolkit for agentic systems | Python |
 | **[community-onboarding-analytics](https://github.com/Adamson-lab/community-onboarding-analytics)** | Automated community tracking and onboarding analytics | Python |
 | **[enterprise-ai-evaluator](https://github.com/Adamson-lab/enterprise-ai-evaluator)** | Enterprise-grade evaluation pipeline for LLM deployments | Python |
+| **[multicloud-landing-zone-tf](https://github.com/Adamson-lab/multicloud-landing-zone-tf)** | Automated Terraform modules for multi-region cloud landing zones | Terraform |
+| **[enterprise-compliance-arb](https://github.com/Adamson-lab/enterprise-compliance-arb)** | Automated governance policy validation framework for architecture boards | Python |
+| **[zero-trust-network-mesh](https://github.com/Adamson-lab/zero-trust-network-mesh)** | Micro-segmentation and secure BGP/SD-WAN routing configurations | Bash / YAML |
+| **[sap-s4hana-integration-fabric](https://github.com/Adamson-lab/sap-s4hana-integration-fabric)** | Enterprise API integration fabric connecting SAP S/4HANA to Oracle Fusion ERP | Python |
 
 ---
 
