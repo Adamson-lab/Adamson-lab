@@ -266,9 +266,15 @@
 ### 📊 Pinned Repository & Core Showcase
 
 <div align="center">
-  <a href="https://github.com/Adamson-lab/ai-response-evaluation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adamson-lab&repo=ai-response-evaluation&theme=tokyonight&hide_border=true" width="60%" alt="Pinned Repository" />
-  </a>
+  <table width="100%">
+    <tr>
+      <td align="center" width="100%">
+        <a href="https://github.com/Adamson-lab/ai-response-evaluation">
+          <img src="https://img.shields.io/badge/📌_PINNED_REPO:_ai--response--evaluation-Production--grade_AI_Response_Evaluation_Framework_in_Python-0D1117?style=for-the-badge&logo=github&logoColor=white&color=1f2428" width="100%" alt="Pinned Repository" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
