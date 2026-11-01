@@ -108,16 +108,14 @@
 ### 📊 GitHub Analytics & Performance
 
 <div align="center">
-  <table width="100%">
-    <tr height="210">
-      <td align="center" width="50%" height="210"><a href="https://github.com/Adamson-lab"><img src="https://github-readme-stats.vercel.app/api?username=Adamson-lab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats" /></a></td>
-      <td align="center" width="50%" height="210"><a href="https://github.com/Adamson-lab"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamson-lab&langs_count=6&theme=tokyonight&hide_border=true&layout=donut" height="195" alt="Language Analytics Donut" /></a></td>
-    </tr>
-    <tr height="210">
-      <td align="center" width="50%" height="210"><a href="https://github.com/Adamson-lab"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Adamson-lab&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" /></a></td>
-      <td align="center" width="50%" height="210"><a href="https://github.com/Adamson-lab"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamson-lab&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="195" alt="Most Used Languages" /></a></td>
-    </tr>
-  </table>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Adamson-lab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamson-lab&langs_count=6&theme=tokyonight&hide_border=true&layout=donut" alt="Language Analytics Donut" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adamson-lab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamson-lab&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most Used Languages" />
+  </p>
 </div>
 
 ---
