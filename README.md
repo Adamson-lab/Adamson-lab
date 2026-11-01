@@ -51,7 +51,7 @@
 ### 🏅 Professional Certifications & Credentials
 
 <div align="center">
-  <table border="0" cellspacing="10" cellpadding="10">
+  <table width="100%">
     <tr>
       <td align="center"><a href="https://www.credly.com/badges/d985fe1a-51e0-4db4-a536-cc89d858ff72"><img width="115" src="./badges/SAP_EA.png" alt="SAP Enterprise Architect Certified" /></a></td>
       <td align="center"><a href="https://www.credly.com/badges/96695dc1-fa55-4e9e-b59e-1c07a241a481"><img width="115" src="./badges/AWS_SAP.png" alt="AWS Certified Solutions Architect Professional" /></a></td>
@@ -75,9 +75,9 @@
       <td align="center"><a href="https://www.credly.com/badges/1a92627e-644c-4740-9409-8ee12acb8470"><img width="115" src="./badges/d1106ff8-8a9f-4457-863c-6749520c38fd.png" alt="AWS Certified Machine Learning Engineer Associate" /></a></td>
       <td align="center"><a href="https://learn.microsoft.com/api/credentials/share/en-us/AdamsonFavourIkeoluwa-0573/B06B48B663CC9605?sharingId=FDE125CE4406F284"><img width="115" src="./badges/azure-administrator-associate-600x600.png" alt="Microsoft Certified Azure Administrator Associate" /></a></td>
       <td align="center"><a href="https://www.credly.com/users/adamson-favour"><img width="115" src="./badges/JUMPCLOUD_2026.png" alt="JumpCloud Certified Advanced 2026" /></a></td>
-      <td align="center"><a href="https://www.credly.com/users/adamson-favour"><img width="115" src="./badges/SAP_EA.png" alt="Extra Credential" /></a></td>
-      <td align="center"><a href="https://www.credly.com/users/adamson-favour"><img width="115" src="./badges/AWS_SAP.png" alt="Extra Credential" /></a></td>
-      <td align="center"><a href="https://www.credly.com/users/adamson-favour"><img width="115" src="./badges/GCP_CA.png" alt="Extra Credential" /></a></td>
+      <td align="center"><a href="https://learn.microsoft.com/api/credentials/share/en-us/AdamsonFavourIkeoluwa-0573/3AAAC65E1BA147DE?sharingId=FDE125CE4406F284"><img width="115" src="./badges/image_bb52b7.png" alt="Microsoft Certified: Azure for SAP Workloads Specialty" /></a></td>
+      <td align="center"><a href="https://learn.microsoft.com/api/credentials/share/en-us/AdamsonFavourIkeoluwa-0573/7D821AF1C06A8DA8?sharingId=FDE125CE4406F284"><img width="115" src="./badges/CERT-Expert-Dynamics365-Finance-and-Operations-Apps-Solution-Architect.png" alt="Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert" /></a></td>
+      <td align="center"><a href="https://learn.microsoft.com/api/credentials/share/en-us/AdamsonFavourIkeoluwa-0573/985A3167A47057E?sharingId=FDE125CE4406F284"><img width="115" src="./badges/power-platform-solutions-architect-expert-600x600.png" alt="Microsoft Certified: Power Platform Solution Architect Expert" /></a></td>
     </tr>
   </table>
 </div>
