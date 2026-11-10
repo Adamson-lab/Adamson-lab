@@ -56,7 +56,7 @@
     <tr>
       <td align="center" width="16.66%"><a href="https://www.credly.com/badges/d985fe1a-51e0-4db4-a536-cc89d858ff72"><img width="115" src="./badges/SAP_EA.png" alt="SAP Enterprise Architect Certified" /></a></td>
       <td align="center" width="16.66%"><a href="https://www.credly.com/badges/96695dc1-fa55-4e9e-b59e-1c07a241a481"><img width="115" src="./badges/AWS_SAP.png" alt="AWS Solutions Architect Pro" /></a></td>
-      <td align="center" width="16.66%"><a href="https://www.credly.com/badges/7f8e735-b290-492b-bd6a-7fa09ee73e5d"><img width="115" src="./badges/GCP_CA.png" alt="GCP Professional Cloud Architect" /></a></td>
+      <td align="center" width="16.66%"><a href="https://www.credly.com/badges/77f8e735-b290-492b-bd6a-7fa09ee73e5d"><img width="115" src="./badges/GCP_CA.png" alt="GCP Professional Cloud Architect" /></a></td>
       <td align="center" width="16.66%"><a href="https://learn.microsoft.com/api/credentials/share/en-us/AdamsonFavourIkeoluwa-0573/D5AA23332324B8C9?sharingId=FDE125CE4406F284"><img width="115" src="./badges/5e8f2e11-71bd-43a2-adde-d0d7ec0237bd.png" alt="Azure Solutions Architect Expert" /></a></td>
       <td align="center" width="16.66%"><a href="https://learn.microsoft.com/en-us/users/adamsonfavourikeoluwa-0573/credentials/101af57f2f5a65f1"><img width="115" src="./badges/CERT-Expert-DevOps-Engineer-600x600.png" alt="DevOps Engineer Expert" /></a></td>
       <td align="center" width="16.66%"><a href="https://learn.microsoft.com/api/credentials/share/en-us/AdamsonFavourIkeoluwa-0573/7D821AF1C06A8DA8?sharingId=FDE125CE4406F284"><img width="115" src="./badges/CERT-Expert-Dynamics365-Finance-and-Operations-Apps-Solution-Architect.png" alt="Dynamics 365 Solution Architect Expert" /></a></td>
