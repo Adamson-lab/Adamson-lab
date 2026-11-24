@@ -86,7 +86,7 @@
       <td align="center" width="16.66%"><a href="https://www.credly.com/badges/1a92627e-644c-4740-9409-8ee12acb8470"><img width="115" src="./badges/d1106ff8-8a9f-4457-863c-6749520c38fd.png" alt="AWS Machine Learning Associate" /></a></td>
       <td align="center" width="16.66%"><a href="https://learn.microsoft.com/api/credentials/share/en-us/AdamsonFavourIkeoluwa-0573/B06B48B663CC9605?sharingId=FDE125CE4406F284"><img width="115" src="./badges/azure-administrator-associate-600x600.png" alt="Azure Administrator Associate" /></a></td>
       <td align="center" width="16.66%"><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=3065973002507542EA8B56A347A18D9827E7BAE19C8CD688123810D62FACA453"><img width="115" src="./badges/OCI26CAA_cached_image_20261016-32-l1ezjp.png" alt="OCI Architect Associate" /></a></td>
-      <td align="center" width="16.66%"><a href="https://www.credly.com/users/adamson-favour"><img width="115" src="./badges/JUMPCLOUD_2026.png" alt="JumpCloud Certified Advanced 2026" /></a></td>
+      <td align="center" width="16.66%"><a href="https://www.credly.com/badges/f91aa288-ff6e-4b4c-9a9a-16c75f32ba30M"><img width="115" src="./badges/JUMPCLOUD_2026.png" alt="JumpCloud Certified Advanced 2026" /></a></td>
     </tr>
   </table>
 </div>
